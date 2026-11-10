@@ -2421,10 +2421,34 @@ window.IN_TIME_PRODUCTS = [
       "Cuello redondo de canalé de algodón/Lycra",
       "Cuello encintado",
       "Costuras dobles en mangas, cuello y dobladillo",
-      "Construcción tubular para estabilidad de forma"
+      "Construcción tubular para estabilidad de forma",
+      "Colores disponibles: Azul azure, Negro, Verde botella, Rojo teja, Granate, Verde oliva, Azul marino oscuro, Fucsia, Gris jaspeado, Verde kelly, Gris grafito, Verde lima, Azul marino, Naranja, Púrpura, Rojo, Azul royal, Celeste, Amarillo girasol, Blanco, Amarillo K2"
     ],
     "grupo": "Fruit of the Loom",
-    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-original"
+    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-original",
+    "colors": [
+      "Azul azure",
+      "Negro",
+      "Verde botella",
+      "Rojo teja",
+      "Granate",
+      "Verde oliva",
+      "Azul marino oscuro",
+      "Fucsia",
+      "Gris jaspeado",
+      "Verde kelly",
+      "Gris grafito",
+      "Verde lima",
+      "Azul marino",
+      "Naranja",
+      "Púrpura",
+      "Rojo",
+      "Azul royal",
+      "Celeste",
+      "Amarillo girasol",
+      "Blanco",
+      "Amarillo K2"
+    ]
   },
   {
     "id": "fruit-short-fruit-of-the-loom-valueweight-hombre-61-036-0",

@@ -1,0 +1,39 @@
+name: Vincular fotos y colores Original 011505
+on:
+  push:
+    paths:
+      - ".in-time-fix-color-images"
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Vincular cada color con su fotografía
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const file='products.js';
+          const source=fs.readFileSync(file,'utf8');
+          const m=source.match(/window\.IN_TIME_PRODUCTS\s*=\s*([\s\S]*?)\s*;\s*$/);
+          if(!m) throw new Error('No se pudo leer products.js');
+          const products=JSON.parse(m[1]);
+          const p=products.find(x=>x.id==='fruit-short-fruit-of-the-loom-original-t-hombre-61-082-0');
+          if(!p) throw new Error('Producto 011505 no encontrado');
+          const names=['Azul azure','Negro','Verde botella','Rojo teja','Granate','Verde oliva','Azul marino oscuro','Fucsia','Gris jaspeado','Verde kelly','Gris grafito','Verde lima','Azul marino','Naranja','Púrpura','Rojo','Azul royal','Celeste','Amarillo girasol','Blanco','Amarillo K2'];
+          if(!Array.isArray(p.images)||p.images.length!==names.length) throw new Error('Las imágenes no coinciden con los 21 colores');
+          p.colors=p.images.map((image,i)=>({name:names[i],image}));
+          p.img=p.images[0];
+          fs.writeFileSync(file,'window.IN_TIME_PRODUCTS = '+JSON.stringify(products,null,2)+';\n');
+          console.log('COLORES CON FOTO',p.colors.length);
+          console.log('PRIMERO',JSON.stringify(p.colors[0]));
+          console.log('ÚLTIMO',JSON.stringify(p.colors[p.colors.length-1]));
+          NODE
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add products.js
+          git commit -m "Vincular fotos a colores del Original 011505"
+          git push origin HEAD:main

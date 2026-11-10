@@ -1,0 +1,47 @@
+name: IN TIME catalog color correction
+
+on:
+  push:
+    paths:
+      - ".in-time-run-color-fix"
+
+permissions:
+  contents: write
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Remove the two requested colors
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const file = 'products.js';
+          const source = fs.readFileSync(file, 'utf8');
+          const match = source.match(/^\s*window\.IN_TIME_PRODUCTS\s*=\s*([\s\S]*);\s*$/);
+          if (!match) throw new Error('No se reconoce el formato de products.js');
+          const products = JSON.parse(match[1]);
+          const id = 'fruit-short-fruit-of-the-loom-iconic-t-hombre-sc61430';
+          const product = products.find(p => p.id === id);
+          if (!product) throw new Error('No se encontró el producto solicitado');
+          if (!Array.isArray(product.colors) || !Array.isArray(product.images)) throw new Error('Faltan arrays colors/images');
+          const remove = new Set(['Fucsia', 'Azul azure']);
+          const indexes = product.colors.map((c, i) => remove.has(c) ? i : -1).filter(i => i >= 0);
+          if (indexes.length !== 2) throw new Error('Se esperaban exactamente dos colores; encontrados: ' + indexes.length);
+          for (const i of indexes.slice().reverse()) {
+            product.colors.splice(i, 1);
+            product.images.splice(i, 1);
+          }
+          fs.writeFileSync(file, 'window.IN_TIME_PRODUCTS = ' + JSON.stringify(products, null, 2) + ';\n');
+          console.log('Colores eliminados. Quedan ' + product.colors.length + ' colores.');
+          NODE
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add products.js
+          git commit -m "Eliminar Fucsia y Azul Azure del Iconic 150"
+          git push origin HEAD:main

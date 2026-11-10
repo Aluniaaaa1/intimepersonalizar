@@ -1,0 +1,8 @@
+IN TIME - actualización Fruit of the Loom
+Base: IN_TIME_FRUIT_LADIES_ORIGINAL_PRODUCTO_1(1).zip
+Productos antes: 252
+Productos después: 253
+Se añadió: Camiseta Fruit of the Loom Performance Mujer (015.01)
+Se actualizaron fichas de Valueweight Hombre, Iconic 150 T Hombre, Heavy-T, Super Premium, Iconic 150 T Mujer, Iconic 150 V Mujer, Valueweight V Hombre y Pure Cotton T.
+No se han añadido tallas.
+Las fotografías y colores de Performance Mujer se enlazan a los archivos públicos del distribuidor Tuskamisetas.

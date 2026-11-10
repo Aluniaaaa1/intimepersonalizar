@@ -1,0 +1,6 @@
+ACTUALIZACION: CAMISETA GILDAN SOFTSTYLE RING-SPUN NIÑO
+
+Se han incorporado 16 fotografías locales proporcionadas por el usuario y vinculadas a sus colores.
+Los nombres de color son: Black, Charcoal, Daisy, Dark Heather, Graphite Heather, Sport Grey, Irish Green, Light Blue, Light Pink, Maroon, Navy, Purple, Red, Royal, Sapphire y White.
+
+No se han añadido los colores para los que no se proporcionó fotografía. Las imágenes se sirven desde assets/products/gildan/, sin depender de TusKamisetas.

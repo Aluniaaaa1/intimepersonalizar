@@ -1,0 +1,8 @@
+ACTUALIZACIÓN IN TIME — GILDAN DRYBLEND ADULTO
+
+Producto actualizado: Camiseta Gildan DryBlend Adulto.
+Se incorporan 7 fotografías locales: White, Black, Navy, Orange, Red, Safety Green y Sport Grey.
+Las imágenes se guardan en assets/products/gildan y products.js utiliza rutas locales.
+No se han añadido otros colores sin fotografía aportada.
+
+Esta actualización parte de la versión IN TIME Gildan Softstyle Ring-Spun Niño actualizada.

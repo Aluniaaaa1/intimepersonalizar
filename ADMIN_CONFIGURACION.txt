@@ -1,0 +1,17 @@
+IN TIME — PANEL DE ADMINISTRACIÓN
+
+Este paquete añade /admin al catálogo modular. No se debe publicar sobre el catálogo actual hasta completar la configuración y probarlo en un deploy de prueba.
+
+USUARIO FIJO: admin
+CONTRASEÑA: la eliges y configuras tú en Netlify; no la pongas en este archivo ni la envíes por chat.
+
+Variables que hay que crear en Netlify > Site configuration > Environment variables:
+- ADMIN_PASSWORD: contraseña elegida por ti.
+- SESSION_SECRET: cadena aleatoria de al menos 32 caracteres.
+- GITHUB_TOKEN: token fine-grained de GitHub con permiso Contents: Read and write para el repositorio del catálogo.
+- GITHUB_REPO: Aluniaaaa1/catalogo-in-time..
+- GITHUB_BRANCH: main
+
+El panel usa una función de servidor para verificar la contraseña y mantener el token fuera del navegador. Los productos se guardan en products.js y las fotos en assets/uploads/. Netlify debe estar conectado al mismo repositorio y tener los despliegues automáticos activados.
+
+IMPORTANTE: esta preparación aún no está publicada ni conectada. Antes de ponerla en producción hay que verificar que el products.js actual del repositorio corresponde a esta versión modular, configurar las variables anteriores y probar login, alta, edición, borrado y fotos en un deploy de prueba.

@@ -1,0 +1,27 @@
+name: Inspeccionar colores Original 011505
+on:
+  push:
+    paths:
+      - ".in-time-inspect-011505"
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Localizar producto 011505
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const source = fs.readFileSync('products.js', 'utf8');
+          const match = source.match(/window\.IN_TIME_PRODUCTS\s*=\s*([\s\S]*?)\s*;\s*$/);
+          if (!match) throw new Error('No se pudo interpretar products.js');
+          const products = JSON.parse(match[1]);
+          const found = products.filter(p => JSON.stringify(p).includes('011505') || /Fruit of the Loom Original/i.test(p.name || p.title || ''));
+          console.log('COINCIDENCIAS:', found.length);
+          for (const p of found) console.log(JSON.stringify({id:p.id,name:p.name,title:p.title,reference:p.reference,sku:p.sku,model:p.model,colorCount:p.colors?.length,colors:p.colors}, null, 2));
+          if (!found.length) throw new Error('No se encontró el producto 011505');
+          NODE

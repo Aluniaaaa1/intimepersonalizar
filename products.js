@@ -2390,29 +2390,29 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Original de Fruit of the Loom, modelo de corte tubular. Cuello redondo de canalé con algodón/Lycra, cuello encintado y costuras dobles en mangas, cuello y dobladillo. Tejido estable y adecuado para personalización.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-azur-blue.jpg",
+    "img": "assets/products/fruit_short/original-011505-colors/01_Azul_azure.jpg",
     "images": [
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-azur-blue.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-black.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-bottle-green.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-brick-red.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-burgundy.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-classic-olive.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-deep-navy.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-fuchsia.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-heather-grey.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-kelly-green.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-light-graphite.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-lime.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-navy.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-orange.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-purple.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-red.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-royal-blue.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-sky-blue.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-sunflower.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-white.jpg",
-      "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-yellow.jpg"
+      "assets/products/fruit_short/original-011505-colors/01_Azul_azure.jpg",
+      "assets/products/fruit_short/original-011505-colors/02_Negro.jpg",
+      "assets/products/fruit_short/original-011505-colors/03_Verde_botella.jpg",
+      "assets/products/fruit_short/original-011505-colors/04_Rojo_teja.jpg",
+      "assets/products/fruit_short/original-011505-colors/05_Granate.jpg",
+      "assets/products/fruit_short/original-011505-colors/06_Verde_oliva.jpg",
+      "assets/products/fruit_short/original-011505-colors/07_Azul_marino_oscuro.jpg",
+      "assets/products/fruit_short/original-011505-colors/08_Fucsia.jpg",
+      "assets/products/fruit_short/original-011505-colors/09_Gris_jaspeado.jpg",
+      "assets/products/fruit_short/original-011505-colors/10_Verde_kelly.jpg",
+      "assets/products/fruit_short/original-011505-colors/11_Gris_grafito.jpg",
+      "assets/products/fruit_short/original-011505-colors/12_Verde_lima.jpg",
+      "assets/products/fruit_short/original-011505-colors/13_Azul_marino.jpg",
+      "assets/products/fruit_short/original-011505-colors/14_Naranja.jpg",
+      "assets/products/fruit_short/original-011505-colors/15_Purpura.jpg",
+      "assets/products/fruit_short/original-011505-colors/16_Rojo.jpg",
+      "assets/products/fruit_short/original-011505-colors/17_Azul_royal.jpg",
+      "assets/products/fruit_short/original-011505-colors/18_Celeste.jpg",
+      "assets/products/fruit_short/original-011505-colors/19_Amarillo_girasol.jpg",
+      "assets/products/fruit_short/original-011505-colors/20_Blanco.jpg",
+      "assets/products/fruit_short/original-011505-colors/21_Amarillo_K2.jpg"
     ],
     "features": [
       "Referencia de la ficha: 011505",
@@ -2429,87 +2429,87 @@ window.IN_TIME_PRODUCTS = [
     "colors": [
       {
         "name": "Azul azure",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-azur-blue.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/01_Azul_azure.jpg"
       },
       {
         "name": "Negro",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-black.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/02_Negro.jpg"
       },
       {
         "name": "Verde botella",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-bottle-green.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/03_Verde_botella.jpg"
       },
       {
         "name": "Rojo teja",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-brick-red.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/04_Rojo_teja.jpg"
       },
       {
         "name": "Granate",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-burgundy.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/05_Granate.jpg"
       },
       {
         "name": "Verde oliva",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-classic-olive.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/06_Verde_oliva.jpg"
       },
       {
         "name": "Azul marino oscuro",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-deep-navy.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/07_Azul_marino_oscuro.jpg"
       },
       {
         "name": "Fucsia",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-fuchsia.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/08_Fucsia.jpg"
       },
       {
         "name": "Gris jaspeado",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-heather-grey.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/09_Gris_jaspeado.jpg"
       },
       {
         "name": "Verde kelly",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-kelly-green.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/10_Verde_kelly.jpg"
       },
       {
         "name": "Gris grafito",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-light-graphite.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/11_Gris_grafito.jpg"
       },
       {
         "name": "Verde lima",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-lime.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/12_Verde_lima.jpg"
       },
       {
         "name": "Azul marino",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-navy.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/13_Azul_marino.jpg"
       },
       {
         "name": "Naranja",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-orange.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/14_Naranja.jpg"
       },
       {
         "name": "Púrpura",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-purple.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/15_Purpura.jpg"
       },
       {
         "name": "Rojo",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-red.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/16_Rojo.jpg"
       },
       {
         "name": "Azul royal",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-royal-blue.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/17_Azul_royal.jpg"
       },
       {
         "name": "Celeste",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-sky-blue.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/18_Celeste.jpg"
       },
       {
         "name": "Amarillo girasol",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-sunflower.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/19_Amarillo_girasol.jpg"
       },
       {
         "name": "Blanco",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-white.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/20_Blanco.jpg"
       },
       {
         "name": "Amarillo K2",
-        "image": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc6-yellow.jpg"
+        "image": "assets/products/fruit_short/original-011505-colors/21_Amarillo_K2.jpg"
       }
     ]
   },

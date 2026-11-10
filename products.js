@@ -2723,9 +2723,21 @@ window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
     "images": [
-      "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc22v.jpg"
-    ],
-    "img": "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc22v.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-azur-blue.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-black.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-dark-heather-grey.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-deep-navy.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-heather-grey.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-kelly-green.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-light-graphite.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-navy.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-orange.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-red.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-royal-blue.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-sunflower.jpg",
+            "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-white.jpg"
+      ],
+    "img": "https://www.tuskamisetas.com/uploads/media/producto/fruit-of-the-loom-sc22v-white.jpg",
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-value-cuello-v",
     "features": [
       "Gramaje: 165 g/m²",

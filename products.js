@@ -2246,7 +2246,6 @@ window.IN_TIME_PRODUCTS = [
     "images": [
       "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_30.webp",
       "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_36.webp",
-      "https://images.txm.es/product_gallery/011900/product/front/colors/57.jpg",
       "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_40.webp",
       "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_AZ.webp",
       "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_51.webp",
@@ -2269,7 +2268,6 @@ window.IN_TIME_PRODUCTS = [
       "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_FR.webp",
       "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_32.webp",
       "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_NE.webp",
-      "https://images.txm.es/product_gallery/011900/product/front/colors/ZU.jpg",
       "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_41.webp"
     ],
     "features": [
@@ -2290,10 +2288,6 @@ window.IN_TIME_PRODUCTS = [
       {
         "name": "Negro",
         "image": "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_36.webp"
-      },
-      {
-        "name": "Fucsia",
-        "image": "https://images.txm.es/product_gallery/011900/product/front/colors/57.jpg"
       },
       {
         "name": "Rojo",
@@ -2382,10 +2376,6 @@ window.IN_TIME_PRODUCTS = [
       {
         "name": "Neomint",
         "image": "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_NE.webp"
-      },
-      {
-        "name": "Azul azure",
-        "image": "https://images.txm.es/product_gallery/011900/product/front/colors/ZU.jpg"
       },
       {
         "name": "Granate",

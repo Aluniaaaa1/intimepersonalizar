@@ -2683,15 +2683,36 @@ window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
     "images": [
-      "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc61212.jpg"
+      "https://aluniaaaa1.github.io/intimepersonalizar/01_White_Blanco.jpg",
+      "https://aluniaaaa1.github.io/intimepersonalizar/02_Black_Negro.jpg",
+      "https://aluniaaaa1.github.io/intimepersonalizar/03_Heather_Grey_Gris_Jaspeado.jpg",
+      "https://aluniaaaa1.github.io/intimepersonalizar/04_Navy_Azul_Marino.jpg"
     ],
-    "img": "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc61212.jpg",
+    "img": "https://aluniaaaa1.github.io/intimepersonalizar/01_White_Blanco.jpg",
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-heavy-t",
     "features": [
       "Gramaje: 195 g/m²",
       "Composición: 100 % algodón, excepto Heather Grey: 97 % algodón y 3 % poliéster",
       "Cuello redondo con tira cubrecosturas",
       "Tejido de punto fino adecuado para impresión"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "image": "https://aluniaaaa1.github.io/intimepersonalizar/01_White_Blanco.jpg"
+      },
+      {
+        "name": "Black",
+        "image": "https://aluniaaaa1.github.io/intimepersonalizar/02_Black_Negro.jpg"
+      },
+      {
+        "name": "Heather Grey",
+        "image": "https://aluniaaaa1.github.io/intimepersonalizar/03_Heather_Grey_Gris_Jaspeado.jpg"
+      },
+      {
+        "name": "Navy",
+        "image": "https://aluniaaaa1.github.io/intimepersonalizar/04_Navy_Azul_Marino.jpg"
+      }
     ]
   },
   {

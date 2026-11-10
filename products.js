@@ -2810,9 +2810,16 @@ window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
     "images": [
-      "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc61044.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_11.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_15.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_16.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_17.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_18.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
     ],
-    "img": "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc61044.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp",
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-super-premium",
     "features": [
       "Gramaje: 205 g/m²",

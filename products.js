@@ -2791,7 +2791,7 @@ window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
         "image": "White.jpg"
       }
     ],
-    "img": "White.jpg",
+    "img": "Azur_Blue.jpg",
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-value-cuello-v",
     "features": [
       "Gramaje: 165 g/m²",

@@ -1,0 +1,28 @@
+name: Diagnosticar estructura 011505
+on:
+  push:
+    paths:
+      - ".in-time-inspect-011505-structure"
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Mostrar estructura del producto
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const source=fs.readFileSync('products.js','utf8');
+          const match=source.match(/window\.IN_TIME_PRODUCTS\s*=\s*([\s\S]*?)\s*;\s*$/);
+          const products=JSON.parse(match[1]);
+          const p=products.find(p=>p.id==='fruit-short-fruit-of-the-loom-original-t-hombre-61-082-0');
+          console.log('KEYS',Object.keys(p));
+          for(const [k,v] of Object.entries(p)) {
+            if(/color|image|variant|option/i.test(k)) console.log(k,JSON.stringify(v,null,2));
+          }
+          console.log('FULL',JSON.stringify(p,null,2).slice(0,16000));
+          NODE

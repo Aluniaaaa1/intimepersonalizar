@@ -29,7 +29,7 @@ jobs:
           if (!product) throw new Error('No se encontró el producto solicitado');
           if (!Array.isArray(product.colors) || !Array.isArray(product.images)) throw new Error('Faltan arrays colors/images');
           const remove = new Set(['Fucsia', 'Azul azure']);
-          const indexes = product.colors.map((c, i) => remove.has(c) ? i : -1).filter(i => i >= 0);
+          const indexes = product.colors.map((c, i) => remove.has(c?.name) ? i : -1).filter(i => i >= 0);
           if (indexes.length !== 2) throw new Error('Se esperaban exactamente dos colores; encontrados: ' + indexes.length);
           for (const i of indexes.slice().reverse()) {
             product.colors.splice(i, 1);

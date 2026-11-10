@@ -1,4 +1,4 @@
-window.IN_TIME_PRODUCTS = [
+window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
   {
     "id": "soron-15x23x7-80g",
     "name": "SORON 15X23X7/ 80G",
@@ -2522,167 +2522,147 @@ window.IN_TIME_PRODUCTS = [
     "brand": "Fruit of the Loom",
     "img": "https://www.tuskamisetas.com/resources/images/150_01_414_m-2024_02.jpg",
     "images": [
-      "https://www.tuskamisetas.com/resources/images/150_01_000_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_008_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_101_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_123_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_135_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_200_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_202_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_300_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/Piktogramme/150_01_310.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_320_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_349_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_400_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/Piktogramme/150_01_410.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_414_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_420_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_439_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_448_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_518_b-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_533_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_540_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_601_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_601_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_701_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_731_f-2018_01.jpg",
-      "https://www.tuskamisetas.com/resources/Piktogramme/150_01_126.jpg",
-      "https://www.tuskamisetas.com/resources/Piktogramme/150_01_206.jpg",
-      "https://www.tuskamisetas.com/resources/Piktogramme/150_01_306.jpg",
-      "https://www.tuskamisetas.com/resources/Piktogramme/150_01_406.jpg",
-      "https://www.tuskamisetas.com/resources/Piktogramme/150_01_506.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_521_f-2018-nc_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/150_01_346_f-2019-nc_01.jpg",
-      "https://www.tuskamisetas.com/resources/Piktogramme/150_01_413.jpg"
+      "azur-blue.jpg",
+      "black.jpg",
+      "bottle-green.jpg",
+      "burgundy.jpg",
+      "chocolate.jpg",
+      "classic-olive.jpg",
+      "dark-heather-grey.jpg",
+      "deep-navy.jpg",
+      "fuchsia.jpg",
+      "heather-grey.jpg",
+      "heather-purple.jpg",
+      "kelly-green.jpg",
+      "khaki-beige.jpg",
+      "light-graphite.jpg",
+      "light-pink.jpg",
+      "lime.jpg",
+      "natural.jpg",
+      "navy.jpg",
+      "orange.jpg",
+      "purple.jpg",
+      "red.jpg",
+      "retro-heather-green.jpg",
+      "retro-heather-royal.jpg",
+      "royal-blue.jpg",
+      "sky-blue.jpg",
+      "sunflower.jpg",
+      "white.jpg",
+      "yellow.jpg"
     ],
     "colors": [
       {
-        "name": "White",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_000_f-2018_01.jpg"
-      },
-      {
-        "name": "Natural",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_008_f-2018_01.jpg"
+        "name": "Azur Blue",
+        "image": "azur-blue.jpg"
       },
       {
         "name": "Black",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_101_f-2018_01.jpg"
-      },
-      {
-        "name": "Heather Grey",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_123_f-2018_01.jpg"
-      },
-      {
-        "name": "Light Graphite",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_135_f-2018_01.jpg"
-      },
-      {
-        "name": "Navy",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_200_f-2018_01.jpg"
-      },
-      {
-        "name": "Deep Navy",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_202_f-2018_01.jpg"
-      },
-      {
-        "name": "Royal",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_300_f-2018_01.jpg"
-      },
-      {
-        "name": "Azure Blue",
-        "image": "https://www.tuskamisetas.com/resources/Piktogramme/150_01_310.jpg"
-      },
-      {
-        "name": "Sky Blue",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_320_f-2018_01.jpg"
-      },
-      {
-        "name": "Purple",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_349_f-2018_01.jpg"
-      },
-      {
-        "name": "Red",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_400_f-2018_01.jpg"
-      },
-      {
-        "name": "Orange",
-        "image": "https://www.tuskamisetas.com/resources/Piktogramme/150_01_410.jpg"
-      },
-      {
-        "name": "Brick Red",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_414_f-2018_01.jpg"
-      },
-      {
-        "name": "Light Pink",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_420_f-2018_01.jpg"
-      },
-      {
-        "name": "Fuchsia",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_439_f-2018_01.jpg"
-      },
-      {
-        "name": "Burgundy",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_448_f-2018_01.jpg"
-      },
-      {
-        "name": "Kelly Green",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_518_b-2018_01.jpg"
-      },
-      {
-        "name": "Classic Olive",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_533_f-2018_01.jpg"
+        "image": "black.jpg"
       },
       {
         "name": "Bottle Green",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_540_f-2018_01.jpg"
+        "image": "bottle-green.jpg"
       },
       {
-        "name": "Yellow",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_601_f-2018_01.jpg"
-      },
-      {
-        "name": "Sunflower",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_601_f-2018_01.jpg"
+        "name": "Burgundy",
+        "image": "burgundy.jpg"
       },
       {
         "name": "Chocolate",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_701_f-2018_01.jpg"
+        "image": "chocolate.jpg"
       },
       {
-        "name": "Khaki",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_731_f-2018_01.jpg"
+        "name": "Classic Olive",
+        "image": "classic-olive.jpg"
       },
       {
         "name": "Dark Heather Grey",
-        "image": "https://www.tuskamisetas.com/resources/Piktogramme/150_01_126.jpg"
+        "image": "dark-heather-grey.jpg"
       },
       {
-        "name": "Heather Navy",
-        "image": "https://www.tuskamisetas.com/resources/Piktogramme/150_01_206.jpg"
+        "name": "Deep Navy",
+        "image": "deep-navy.jpg"
       },
       {
-        "name": "Heather Royal",
-        "image": "https://www.tuskamisetas.com/resources/Piktogramme/150_01_306.jpg"
+        "name": "Fuchsia",
+        "image": "fuchsia.jpg"
       },
       {
-        "name": "Heather Red",
-        "image": "https://www.tuskamisetas.com/resources/Piktogramme/150_01_406.jpg"
-      },
-      {
-        "name": "Heather Green",
-        "image": "https://www.tuskamisetas.com/resources/Piktogramme/150_01_506.jpg"
-      },
-      {
-        "name": "Lime Green",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_521_f-2018-nc_01.jpg"
+        "name": "Heather Grey",
+        "image": "heather-grey.jpg"
       },
       {
         "name": "Heather Purple",
-        "image": "https://www.tuskamisetas.com/resources/images/150_01_346_f-2019-nc_01.jpg"
+        "image": "heather-purple.jpg"
       },
       {
-        "name": "Heather Burgundy",
-        "image": "https://www.tuskamisetas.com/resources/Piktogramme/150_01_413.jpg"
+        "name": "Kelly Green",
+        "image": "kelly-green.jpg"
+      },
+      {
+        "name": "Khaki beige",
+        "image": "khaki-beige.jpg"
+      },
+      {
+        "name": "Light Graphite",
+        "image": "light-graphite.jpg"
+      },
+      {
+        "name": "Light Pink",
+        "image": "light-pink.jpg"
+      },
+      {
+        "name": "Lime",
+        "image": "lime.jpg"
+      },
+      {
+        "name": "Natural",
+        "image": "natural.jpg"
+      },
+      {
+        "name": "Navy",
+        "image": "navy.jpg"
+      },
+      {
+        "name": "Orange",
+        "image": "orange.jpg"
+      },
+      {
+        "name": "Purple",
+        "image": "purple.jpg"
+      },
+      {
+        "name": "Red",
+        "image": "red.jpg"
+      },
+      {
+        "name": "Retro Heather Green",
+        "image": "retro-heather-green.jpg"
+      },
+      {
+        "name": "Retro Heather Royal",
+        "image": "retro-heather-royal.jpg"
+      },
+      {
+        "name": "Royal Blue",
+        "image": "royal-blue.jpg"
+      },
+      {
+        "name": "Sky Blue",
+        "image": "sky-blue.jpg"
+      },
+      {
+        "name": "Sunflower",
+        "image": "sunflower.jpg"
+      },
+      {
+        "name": "White",
+        "image": "white.jpg"
+      },
+      {
+        "name": "Yellow",
+        "image": "yellow.jpg"
       }
     ],
     "features": [

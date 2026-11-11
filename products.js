@@ -2244,9 +2244,31 @@ window.IN_TIME_PRODUCTS = [
     "brand": "Fruit of the Loom",
     "img": "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_3eb3bcb5_2K.jpg?v=1794433235",
     "images": [
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_3eb3bcb5_2K.jpg?v=1794433235",
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_d9dc46b6_2K.jpg?v=1794433236",
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_0b177824_2K.jpg?v=1794433235"
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_30.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_36.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_40.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_AZ.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_51.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_94.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_47.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_GL.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_34.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_TM.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_HP.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_XW.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_60.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_HD.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_R6.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_RX.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_VF.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_VH.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_59.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_CB.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_H1.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_FR.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_32.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_NE.webp",
+      "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_41.webp"
     ],
     "features": [
       "Referencia: 011900",
@@ -2359,6 +2381,16 @@ window.IN_TIME_PRODUCTS = [
         "name": "Granate",
         "image": "https://storage.googleapis.com/img-bucket/product_img_webp/011900/product/front/colors/1200x1200_41.webp"
       }
+    ],
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_3eb3bcb5_2K.jpg?v=1794433235",
+      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_d9dc46b6_2K.jpg?v=1794433236",
+      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_0b177824_2K.jpg?v=1794433235"
+    ],
+    "galleryImagesLabels": [
+      "Fotografía principal",
+      "Fotografía de modelo 2",
+      "Fotografía de modelo 3"
     ]
   },
   {

@@ -3547,7 +3547,7 @@ window.IN_TIME_PRODUCTS = [
       "Fotografía de modelo 3"
     ]
   },
-{
+  {
     "id": "fruit-short-iconic-150-v-ladies-011913",
     "name": "Camiseta Fruit of the Loom Iconic 150 V Mujer",
     "cat": "Camiseta Manga Corta",
@@ -5044,61 +5044,6 @@ window.IN_TIME_PRODUCTS = [
       "Camiseta de manga corta Softstyle para adulto, tejido suave y cuello redondo.",
       "Fotografías de color identificadas con su nombre."
     ]
-  },
-  {
-    "id": "fruit-short-performance-athleta-mujer-015-01",
-    "name": "Camiseta Fruit of the Loom Performance Mujer",
-    "cat": "Camiseta Manga Corta",
-    "grupo": "Fruit of the Loom",
-    "brand": "Fruit of the Loom",
-    "desc": "Camiseta técnica de tirantes para mujer Fruit of the Loom Performance. Tejido ligero de poliéster que facilita la absorción de la humedad y el secado rápido. Espalda nadadora y corte femenino.",
-    "tag": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg",
-    "colors": [
-      {
-        "name": "White",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg"
-      },
-      {
-        "name": "Black",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Black.jpg"
-      },
-      {
-        "name": "Deep Navy",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Deep-Navy.jpg"
-      },
-      {
-        "name": "Royal",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Royal.jpg"
-      },
-      {
-        "name": "Red",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Red.jpg"
-      },
-      {
-        "name": "Fuchsia",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fuchsia.jpg"
-      },
-      {
-        "name": "Lime Green",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Lime-Green.jpg"
-      },
-      {
-        "name": "Bright Yellow",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Bright-Yellow.jpg"
-      }
-    ],
-    "features": [
-      "Gramaje: 140 g/m²",
-      "Composición: 100 % poliéster",
-      "Rápida absorción de la humedad y secado rápido",
-      "Ribete en cuello y sisas del mismo tejido",
-      "Etiqueta impresa en cuello para mayor comodidad",
-      "Espalda nadadora",
-      "Costuras laterales",
-      "Corte femenino"
-    ],
-    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-deporte-camiseta-atleta-performance-mujer"
   },
   {
     "id": "fruit-of-the-loom-super-premium-011518",

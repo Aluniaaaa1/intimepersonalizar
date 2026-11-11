@@ -2699,12 +2699,11 @@ window.IN_TIME_PRODUCTS = [
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
     "images": [
-      "https://aluniaaaa1.github.io/intimepersonalizar/01_White_Blanco.jpg",
-      "https://aluniaaaa1.github.io/intimepersonalizar/02_Black_Negro.jpg",
-      "https://aluniaaaa1.github.io/intimepersonalizar/03_Heather_Grey_Gris_Jaspeado.jpg",
-      "https://aluniaaaa1.github.io/intimepersonalizar/04_Navy_Azul_Marino.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Heavy-T/1_a73a5dea_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Heavy-T/2_fe9165ce_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Heavy-T/3_7a92c22a_2K.jpg"
     ],
-    "img": "https://aluniaaaa1.github.io/intimepersonalizar/01_White_Blanco.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Heavy-T/1_a73a5dea_2K.jpg",
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-heavy-t",
     "features": [
       "Gramaje: 195 g/m²",
@@ -2729,6 +2728,16 @@ window.IN_TIME_PRODUCTS = [
         "name": "Navy",
         "image": "https://aluniaaaa1.github.io/intimepersonalizar/04_Navy_Azul_Marino.jpg"
       }
+    ],
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Heavy-T/1_a73a5dea_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Heavy-T/2_fe9165ce_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Heavy-T/3_7a92c22a_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "",
+      "",
+      ""
     ]
   },
   {

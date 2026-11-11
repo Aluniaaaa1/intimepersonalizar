@@ -2520,149 +2520,29 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Fruit of the Loom Valueweight para hombre. Tejido de algodón con tacto suave y estructura tubular preencogida para conservar la forma. Cuello encintado y costuras dobles en mangas, cuello y dobladillo.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://www.tuskamisetas.com/resources/images/150_01_414_m-2024_02.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg",
     "images": [
-      "azur-blue.jpg",
-      "black.jpg",
-      "bottle-green.jpg",
-      "burgundy.jpg",
-      "chocolate.jpg",
-      "classic-olive.jpg",
-      "dark-heather-grey.jpg",
-      "deep-navy.jpg",
-      "fuchsia.jpg",
-      "heather-grey.jpg",
-      "heather-purple.jpg",
-      "kelly-green.jpg",
-      "khaki-beige.jpg",
-      "light-graphite.jpg",
-      "light-pink.jpg",
-      "lime.jpg",
-      "natural.jpg",
-      "navy.jpg",
-      "orange.jpg",
-      "purple.jpg",
-      "red.jpg",
-      "retro-heather-green.jpg",
-      "retro-heather-royal.jpg",
-      "royal-blue.jpg",
-      "sky-blue.jpg",
-      "sunflower.jpg",
-      "white.jpg",
-      "yellow.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/1_7b7c2d6c_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/3_55b6fb62_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/4_499b51dd_2K.jpg"
     ],
     "colors": [
       {
-        "name": "Azur Blue",
-        "image": "azur-blue.jpg"
+        "name": "Imagen 5",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg"
       },
       {
-        "name": "Black",
-        "image": "black.jpg"
+        "name": "Imagen 1",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/1_7b7c2d6c_2K.jpg"
       },
       {
-        "name": "Bottle Green",
-        "image": "bottle-green.jpg"
+        "name": "Imagen 3",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/3_55b6fb62_2K.jpg"
       },
       {
-        "name": "Burgundy",
-        "image": "burgundy.jpg"
-      },
-      {
-        "name": "Chocolate",
-        "image": "chocolate.jpg"
-      },
-      {
-        "name": "Classic Olive",
-        "image": "classic-olive.jpg"
-      },
-      {
-        "name": "Dark Heather Grey",
-        "image": "dark-heather-grey.jpg"
-      },
-      {
-        "name": "Deep Navy",
-        "image": "deep-navy.jpg"
-      },
-      {
-        "name": "Fuchsia",
-        "image": "fuchsia.jpg"
-      },
-      {
-        "name": "Heather Grey",
-        "image": "heather-grey.jpg"
-      },
-      {
-        "name": "Heather Purple",
-        "image": "heather-purple.jpg"
-      },
-      {
-        "name": "Kelly Green",
-        "image": "kelly-green.jpg"
-      },
-      {
-        "name": "Khaki beige",
-        "image": "khaki-beige.jpg"
-      },
-      {
-        "name": "Light Graphite",
-        "image": "light-graphite.jpg"
-      },
-      {
-        "name": "Light Pink",
-        "image": "light-pink.jpg"
-      },
-      {
-        "name": "Lime",
-        "image": "lime.jpg"
-      },
-      {
-        "name": "Natural",
-        "image": "natural.jpg"
-      },
-      {
-        "name": "Navy",
-        "image": "navy.jpg"
-      },
-      {
-        "name": "Orange",
-        "image": "orange.jpg"
-      },
-      {
-        "name": "Purple",
-        "image": "purple.jpg"
-      },
-      {
-        "name": "Red",
-        "image": "red.jpg"
-      },
-      {
-        "name": "Retro Heather Green",
-        "image": "retro-heather-green.jpg"
-      },
-      {
-        "name": "Retro Heather Royal",
-        "image": "retro-heather-royal.jpg"
-      },
-      {
-        "name": "Royal Blue",
-        "image": "royal-blue.jpg"
-      },
-      {
-        "name": "Sky Blue",
-        "image": "sky-blue.jpg"
-      },
-      {
-        "name": "Sunflower",
-        "image": "sunflower.jpg"
-      },
-      {
-        "name": "White",
-        "image": "white.jpg"
-      },
-      {
-        "name": "Yellow",
-        "image": "yellow.jpg"
+        "name": "Imagen 4",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/4_499b51dd_2K.jpg"
       }
     ],
     "features": [

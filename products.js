@@ -2557,10 +2557,6 @@ window.IN_TIME_PRODUCTS = [
     ],
     "colors": [
       {
-        "name": "Vista principal",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg"
-      },
-      {
         "name": "Azur Blue",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/azur-blue.jpg"
       },
@@ -2671,18 +2667,6 @@ window.IN_TIME_PRODUCTS = [
       {
         "name": "Yellow",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/yellow.jpg"
-      },
-      {
-        "name": "Vista 1",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/1_7b7c2d6c_2K.jpg"
-      },
-      {
-        "name": "Vista 3",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/3_55b6fb62_2K.jpg"
-      },
-      {
-        "name": "Vista 4",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/4_499b51dd_2K.jpg"
       }
     ],
     "features": [
@@ -2693,7 +2677,19 @@ window.IN_TIME_PRODUCTS = [
       "Forma de manga más moderna",
       "Tejido tubular preencogido"
     ],
-    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-camisetas-valueweight-fruit-of-the-loom"
+    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-camisetas-valueweight-fruit-of-the-loom",
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/1_7b7c2d6c_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/3_55b6fb62_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/4_499b51dd_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": "fruit-short-fruit-of-the-loom-heavy-t-sc61212",

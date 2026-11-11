@@ -3536,19 +3536,61 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta para mujer con cuello de pico de algodón/Lycra® y doble pespunte, encintado en cuello y costuras dobles en mangas, cuello y dobladillo. Gramaje: 150 g/m². Composición: 100% algodón peinado. REF: 011913.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://www.tuskamisetas.com/resources/images/146_01_439_d-2020_01.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
     "images": [
-      "https://www.tuskamisetas.com/resources/images/146_01_439_d-2020_01.jpg"
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fucsia.webp",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo.webp",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro.webp",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado.webp",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Powder_Rose.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Soft_Lavender.jpg"
     ],
     "features": [
       "Gramaje: 150 g/m²",
-      "Composición: 100 % algodón, excepto colores vigoré según ficha técnica",
+      "Composición: 100% algodón peinado",
       "Cuello de pico de algodón/Lycra® con doble pespunte",
       "Cuello encintado",
       "Costuras dobles en mangas, cuello y dobladillo",
-      "Corte femenino"
+      "Corte femenino",
+      "Tallas: XS, S, M, L, XL y XXL"
     ],
-    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-ladies-iconic-150-v-neck-t"
+    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-iconic-150-v-ladies",
+    "colors": [
+          {
+                "name": "Blanco",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp"
+          },
+          {
+                "name": "Negro",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp"
+          },
+          {
+                "name": "Fucsia",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fucsia.webp"
+          },
+          {
+                "name": "Rojo",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo.webp"
+          },
+          {
+                "name": "Azul marino oscuro",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro.webp"
+          },
+          {
+                "name": "Gris jaspeado",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado.webp"
+          },
+          {
+                "name": "Powder Rose",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Powder_Rose.jpg"
+          },
+          {
+                "name": "Soft Lavender",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Soft_Lavender.jpg"
+          }
+    ]
   },
   {
     "id": "fruit-short-iconic-165-classic-t-011910",

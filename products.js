@@ -3340,6 +3340,16 @@ window.IN_TIME_PRODUCTS = [
         "name": "White",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_White.jpg"
       }
+    ],
+    "galleryImages": [
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/1_6d36be74_2K.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/2_3fdb4bc8_2K.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/3_937b0602_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "Fotografía principal",
+      "Fotografía de modelo 2",
+      "Fotografía de modelo 3"
     ]
   },
   {

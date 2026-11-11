@@ -3413,7 +3413,7 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta para mujer. Cuello redondo canalé de algodón/Lycra®, cinta en el cuello, costuras dobles en mangas, cuello y dobladillo, tejido tubular preencogido. Gramaje: 150 g/m². Composición: 100% algodón, excepto colores vigoré según ficha técnica. REF: 011901.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20T%20Mujer/1_ba33d6b2_2K.jpg",
     "images": [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp",
@@ -3535,6 +3535,16 @@ window.IN_TIME_PRODUCTS = [
         "name": "Neomint",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Neomint.webp"
       }
+    ],
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20T%20Mujer/1_ba33d6b2_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20T%20Mujer/2_22fbf943_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20T%20Mujer/3_8d290054_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "Fotografía principal",
+      "Fotografía de modelo 2",
+      "Fotografía de modelo 3"
     ]
   },
   {

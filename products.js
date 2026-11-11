@@ -5096,7 +5096,7 @@ window.IN_TIME_PRODUCTS = [
       "Corte femenino"
     ],
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-deporte-camiseta-atleta-performance-mujer"
-  }
+  },
   {
     "id": "fruit-of-the-loom-super-premium-011518",
     "name": "Camiseta Fruit of the Loom Super Premium 011518",

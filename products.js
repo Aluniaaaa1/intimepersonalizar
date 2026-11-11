@@ -2927,9 +2927,30 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Fruit of the Loom Valueweight Béisbol. 100% algodón. Cuello de color contrastado en canalé de algodón/Lycra® y mangas raglán contrastadas. Composición indicada en la ficha: 100% algodón, 160 g/m². Tallas indicadas: S-3XL.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc61026.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_01_White_Black.jpg",
     "images": [
-      "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc61026.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_01_White_Black.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_02_White_Deep_Navy.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_03_White_Red.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_04_White_Royal_Blue.jpg"
+    ],
+    "colors": [
+      {
+        "name": "White / Black",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_01_White_Black.jpg"
+      },
+      {
+        "name": "White / Deep Navy",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_02_White_Deep_Navy.jpg"
+      },
+      {
+        "name": "White / Red",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_03_White_Red.jpg"
+      },
+      {
+        "name": "White / Royal Blue",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_04_White_Royal_Blue.jpg"
+      }
     ]
   },
   {

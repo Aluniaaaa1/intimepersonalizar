@@ -2522,155 +2522,155 @@ window.IN_TIME_PRODUCTS = [
     "brand": "Fruit of the Loom",
     "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg",
     "images": [
-      "azur-blue.jpg",
-      "black.jpg",
-      "bottle-green.jpg",
-      "burgundy.jpg",
-      "chocolate.jpg",
-      "classic-olive.jpg",
-      "dark-heather-grey.jpg",
-      "deep-navy.jpg",
-      "fuchsia.jpg",
-      "heather-grey.jpg",
-      "heather-purple.jpg",
-      "kelly-green.jpg",
-      "khaki-beige.jpg",
-      "light-graphite.jpg",
-      "light-pink.jpg",
-      "lime.jpg",
-      "natural.jpg",
-      "navy.jpg",
-      "orange.jpg",
-      "purple.jpg",
-      "red.jpg",
-      "retro-heather-green.jpg",
-      "retro-heather-royal.jpg",
-      "royal-blue.jpg",
-      "sky-blue.jpg",
-      "sunflower.jpg",
-      "white.jpg",
-      "yellow.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/azur-blue.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/black.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/bottle-green.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/burgundy.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/chocolate.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/classic-olive.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/dark-heather-grey.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/deep-navy.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/fuchsia.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/heather-grey.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/heather-purple.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/kelly-green.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/khaki-beige.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/light-graphite.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/light-pink.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/lime.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/natural.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/navy.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/orange.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/purple.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/red.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/retro-heather-green.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/retro-heather-royal.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/royal-blue.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/sky-blue.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/sunflower.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/white.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/yellow.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/1_7b7c2d6c_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/3_55b6fb62_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/4_499b51dd_2K.jpg"
     ],
     "colors": [
       {
+        "name": "Vista principal",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg"
+      },
+      {
         "name": "Azur Blue",
-        "image": "azur-blue.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/azur-blue.jpg"
       },
       {
         "name": "Black",
-        "image": "black.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/black.jpg"
       },
       {
         "name": "Bottle Green",
-        "image": "bottle-green.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/bottle-green.jpg"
       },
       {
         "name": "Burgundy",
-        "image": "burgundy.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/burgundy.jpg"
       },
       {
         "name": "Chocolate",
-        "image": "chocolate.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/chocolate.jpg"
       },
       {
         "name": "Classic Olive",
-        "image": "classic-olive.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/classic-olive.jpg"
       },
       {
         "name": "Dark Heather Grey",
-        "image": "dark-heather-grey.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/dark-heather-grey.jpg"
       },
       {
         "name": "Deep Navy",
-        "image": "deep-navy.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/deep-navy.jpg"
       },
       {
         "name": "Fuchsia",
-        "image": "fuchsia.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/fuchsia.jpg"
       },
       {
         "name": "Heather Grey",
-        "image": "heather-grey.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/heather-grey.jpg"
       },
       {
         "name": "Heather Purple",
-        "image": "heather-purple.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/heather-purple.jpg"
       },
       {
         "name": "Kelly Green",
-        "image": "kelly-green.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/kelly-green.jpg"
       },
       {
         "name": "Khaki beige",
-        "image": "khaki-beige.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/khaki-beige.jpg"
       },
       {
         "name": "Light Graphite",
-        "image": "light-graphite.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/light-graphite.jpg"
       },
       {
         "name": "Light Pink",
-        "image": "light-pink.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/light-pink.jpg"
       },
       {
         "name": "Lime",
-        "image": "lime.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/lime.jpg"
       },
       {
         "name": "Natural",
-        "image": "natural.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/natural.jpg"
       },
       {
         "name": "Navy",
-        "image": "navy.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/navy.jpg"
       },
       {
         "name": "Orange",
-        "image": "orange.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/orange.jpg"
       },
       {
         "name": "Purple",
-        "image": "purple.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/purple.jpg"
       },
       {
         "name": "Red",
-        "image": "red.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/red.jpg"
       },
       {
         "name": "Retro Heather Green",
-        "image": "retro-heather-green.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/retro-heather-green.jpg"
       },
       {
         "name": "Retro Heather Royal",
-        "image": "retro-heather-royal.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/retro-heather-royal.jpg"
       },
       {
         "name": "Royal Blue",
-        "image": "royal-blue.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/royal-blue.jpg"
       },
       {
         "name": "Sky Blue",
-        "image": "sky-blue.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/sky-blue.jpg"
       },
       {
         "name": "Sunflower",
-        "image": "sunflower.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/sunflower.jpg"
       },
       {
         "name": "White",
-        "image": "white.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/white.jpg"
       },
       {
         "name": "Yellow",
-        "image": "yellow.jpg"
-      },
-      {
-        "name": "Vista principal",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/yellow.jpg"
       },
       {
         "name": "Vista 1",

@@ -3538,14 +3538,14 @@ window.IN_TIME_PRODUCTS = [
     "brand": "Fruit of the Loom",
     "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
     "images": [
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fucsia.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Powder_Rose.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Soft_Lavender.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fucsia.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Powder_Rose.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Soft_Lavender.jpg"
     ],
     "features": [
       "Gramaje: 150 g/m²",
@@ -3558,38 +3558,38 @@ window.IN_TIME_PRODUCTS = [
     ],
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-iconic-150-v-ladies",
     "colors": [
-          {
-                "name": "Blanco",
-                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp"
-          },
-          {
-                "name": "Negro",
-                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp"
-          },
-          {
-                "name": "Fucsia",
-                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fucsia.webp"
-          },
-          {
-                "name": "Rojo",
-                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo.webp"
-          },
-          {
-                "name": "Azul marino oscuro",
-                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro.webp"
-          },
-          {
-                "name": "Gris jaspeado",
-                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado.webp"
-          },
-          {
-                "name": "Powder Rose",
-                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Powder_Rose.jpg"
-          },
-          {
-                "name": "Soft Lavender",
-                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Soft_Lavender.jpg"
-          }
+      {
+        "name": "Blanco",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp"
+      },
+      {
+        "name": "Negro",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp"
+      },
+      {
+        "name": "Fucsia",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fucsia.webp"
+      },
+      {
+        "name": "Rojo",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo.webp"
+      },
+      {
+        "name": "Azul marino oscuro",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro.webp"
+      },
+      {
+        "name": "Gris jaspeado",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado.webp"
+      },
+      {
+        "name": "Powder Rose",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Powder_Rose.jpg"
+      },
+      {
+        "name": "Soft Lavender",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Soft_Lavender.jpg"
+      }
     ]
   },
   {
@@ -5026,26 +5026,24 @@ window.IN_TIME_PRODUCTS = [
     "tag": "Fruit of the Loom",
     "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg",
     "galleryImages": [
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Black.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Deep-Navy.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Royal.jpg",
-          "https://www.tuskamisetas.com/resources/Piktogramme/015_01_310.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Red.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fuchsia.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Lime-Green.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Bright-Yellow.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Black.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Deep-Navy.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Royal.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Red.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fuchsia.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Lime-Green.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Bright-Yellow.jpg"
     ],
     "galleryImagesLabels": [
-          "White",
-          "Black",
-          "Deep Navy",
-          "Royal",
-          "Azure Blue",
-          "Red",
-          "Fuchsia",
-          "Lime Green",
-          "Bright Yellow"
+      "White",
+      "Black",
+      "Deep Navy",
+      "Royal",
+      "Red",
+      "Fuchsia",
+      "Lime Green",
+      "Bright Yellow"
     ],
     "colors": [
       {
@@ -5063,10 +5061,6 @@ window.IN_TIME_PRODUCTS = [
       {
         "name": "Royal",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Royal.jpg"
-      },
-      {
-        "name": "Azure Blue",
-        "image": "https://www.tuskamisetas.com/resources/Piktogramme/015_01_310.jpg"
       },
       {
         "name": "Red",
@@ -5158,57 +5152,56 @@ window.IN_TIME_PRODUCTS = [
       "Tejido tubular preencogido",
       "Tallas: S, M, L, XL, XXL, 3XL, 4XL y 5XL"
     ]
-  }
-,
+  },
   {
-  "id": "fruit-short-iconic-150-v-neck-011912",
-  "name": "Camiseta Fruit of the Loom Iconic 150 V-Neck 011912",
-  "cat": "Camiseta Manga Corta",
-  "grupo": "Prendas serigrafía",
-  "desc": "Camiseta de manga corta unisex con cuello de pico estrecho en canalé 1x1. Cuello de algodón/Lycra® con doble pespunte, encintado en cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular. Gramaje: 150 g/m² (blanco: 140 g/m²). Composición: 100% algodón peinado; Gris jaspeado: 97% algodón y 3% poliéster. REF: 011912.",
-  "tag": "FRUIT OF THE LOOM",
-  "brand": "Fruit of the Loom",
-  "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp",
-  "images": [
-    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp",
-    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro - REF 011912.webp",
-    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro%20-%20REF%20011912.webp",
-    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal%20-%20REF%20011912.webp",
-    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado%20-%20REF%20011912.webp"
-  ],
-  "features": [
-    "Referencia: 011912",
-    "Gramaje: 150 g/m² (blanco: 140 g/m²)",
-    "Composición: 100% algodón peinado",
-    "Gris jaspeado: 97% algodón y 3% poliéster",
-    "Cuello de pico estrecho en canalé 1x1",
-    "Cuello encintado del mismo tejido",
-    "Etiqueta extraíble",
-    "Tejido tubular",
-    "Tallas: S, M, L, XL, XXL, 3XL, 4XL y 5XL"
-  ],
-  "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-iconic-150-v-neck",
-  "colors": [
-    {
-      "name": "Blanco",
-      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp"
-    },
-    {
-      "name": "Negro",
-      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro - REF 011912.webp"
-    },
-    {
-      "name": "Azul marino oscuro",
-      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro%20-%20REF%20011912.webp"
-    },
-    {
-      "name": "Azul royal",
-      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal%20-%20REF%20011912.webp"
-    },
-    {
-      "name": "Gris jaspeado",
-      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado%20-%20REF%20011912.webp"
-    }
-  ]
-}
+    "id": "fruit-short-iconic-150-v-neck-011912",
+    "name": "Camiseta Fruit of the Loom Iconic 150 V-Neck 011912",
+    "cat": "Camiseta Manga Corta",
+    "grupo": "Prendas serigrafía",
+    "desc": "Camiseta de manga corta unisex con cuello de pico estrecho en canalé 1x1. Cuello de algodón/Lycra® con doble pespunte, encintado en cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular. Gramaje: 150 g/m² (blanco: 140 g/m²). Composición: 100% algodón peinado; Gris jaspeado: 97% algodón y 3% poliéster. REF: 011912.",
+    "tag": "FRUIT OF THE LOOM",
+    "brand": "Fruit of the Loom",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp",
+    "images": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro - REF 011912.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro%20-%20REF%20011912.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal%20-%20REF%20011912.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado%20-%20REF%20011912.webp"
+    ],
+    "features": [
+      "Referencia: 011912",
+      "Gramaje: 150 g/m² (blanco: 140 g/m²)",
+      "Composición: 100% algodón peinado",
+      "Gris jaspeado: 97% algodón y 3% poliéster",
+      "Cuello de pico estrecho en canalé 1x1",
+      "Cuello encintado del mismo tejido",
+      "Etiqueta extraíble",
+      "Tejido tubular",
+      "Tallas: S, M, L, XL, XXL, 3XL, 4XL y 5XL"
+    ],
+    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-iconic-150-v-neck",
+    "colors": [
+      {
+        "name": "Blanco",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp"
+      },
+      {
+        "name": "Negro",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro - REF 011912.webp"
+      },
+      {
+        "name": "Azul marino oscuro",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro%20-%20REF%20011912.webp"
+      },
+      {
+        "name": "Azul royal",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal%20-%20REF%20011912.webp"
+      },
+      {
+        "name": "Gris jaspeado",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado%20-%20REF%20011912.webp"
+      }
+    ]
+  }
 ];

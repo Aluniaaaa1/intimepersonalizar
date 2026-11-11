@@ -3593,27 +3593,6 @@ window.IN_TIME_PRODUCTS = [
     ]
   },
   {
-    "id": "fruit-short-iconic-165-classic-t-011910",
-    "name": "Camiseta Fruit of the Loom Iconic 165 Classic T 011910",
-    "cat": "Camiseta Manga Corta",
-    "grupo": "Prendas serigrafía",
-    "desc": "Camiseta de manga corta Iconic 165 Classic T. Cuello redondo canalé de algodón/Lycra®, encintado en cuello, costuras dobles en mangas, cuello y dobladillo, género tubular preencogido para estabilidad de forma. Composición: 100% algodón peinado. Gramaje: 165 g/m². REF: 011910.",
-    "tag": "FRUIT OF THE LOOM",
-    "brand": "Fruit of the Loom",
-    "img": "https://www.tuskamisetas.com/resources/images/111_01_515_m-2024_01.jpg",
-    "images": [
-      "https://www.tuskamisetas.com/resources/images/111_01_515_m-2024_01.jpg"
-    ],
-    "features": [
-      "Referencia TusKamisetas: 011910",
-      "Gramaje: 165 g/m²",
-      "Composición: 100% algodón peinado",
-      "Cuello redondo canalé de algodón/Lycra®",
-      "Tejido tubular preencogido",
-      "Tallas: la ficha consultada no muestra tallas disponibles"
-    ]
-  },
-  {
     "id": "gildan-light-cotton-adult-tshirt",
     "name": "Camiseta Light Cotton Gildan Adultos",
     "cat": "Camiseta Manga Corta",

@@ -2885,6 +2885,12 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Fruit of the Loom Ringer Valueweight. 100% algodón. Cuello redondo de color contrastado en canalé de algodón/Lycra® y tira cubrecosturas del mismo tejido. Composición indicada en la ficha: 100% algodón, 160 g/m². Tallas indicadas: S-3XL.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/1_bf72e8f6_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/2_a469ed3b_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/3_8ca52b04_2K.jpg"
+    ],
+    "galleryImagesLabels": ["Fotografía 1", "Fotografía 2", "Fotografía 3"],
     "images": [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/1_bf72e8f6_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/2_a469ed3b_2K.jpg",

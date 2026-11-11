@@ -2988,8 +2988,11 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Fruit of the Loom Valueweight Béisbol. 100% algodón. Cuello de color contrastado en canalé de algodón/Lycra® y mangas raglán contrastadas. Composición indicada en la ficha: 100% algodón, 160 g/m². Tallas indicadas: S-3XL.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_01_White_Black.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20B%C3%A9isbol/3_a1aac2c7_2K.jpg",
     "images": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20B%C3%A9isbol/3_a1aac2c7_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20B%C3%A9isbol/1_20d087ec_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20B%C3%A9isbol/2_9197052e_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_01_White_Black.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_02_White_Deep_Navy.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_03_White_Red.jpg",

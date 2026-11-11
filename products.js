@@ -2854,7 +2854,7 @@ window.IN_TIME_PRODUCTS = [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
     ],
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp",
+    "img": "https://raw.githubusercontent.com/aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-super-premium",
     "features": [
       "Gramaje: 205 g/m²",
@@ -2895,6 +2895,16 @@ window.IN_TIME_PRODUCTS = [
         "name": "Royal",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
       }
+    ],
+    "galleryImages": [
+      "https://raw.githubusercontent.com/aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
+      "https://raw.githubusercontent.com/aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/2_d6948337_2K.jpg",
+      "https://raw.githubusercontent.com/aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -2909,7 +2919,11 @@ window.IN_TIME_PRODUCTS = [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/2_a469ed3b_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/3_8ca52b04_2K.jpg"
     ],
-    "galleryImagesLabels": ["Fotografía 1", "Fotografía 2", "Fotografía 3"],
+    "galleryImagesLabels": [
+      "Fotografía 1",
+      "Fotografía 2",
+      "Fotografía 3"
+    ],
     "images": [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/1_bf72e8f6_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/2_a469ed3b_2K.jpg",

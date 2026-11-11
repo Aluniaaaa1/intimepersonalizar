@@ -5192,7 +5192,7 @@ window.IN_TIME_PRODUCTS = [
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado%20-%20REF%20011912.webp"
       }
     ]
-  }
+  },
   {
     "id": "fruit-pure-cotton-t",
     "name": "Camiseta Fruit of the Loom Pure Cotton T",

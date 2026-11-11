@@ -2529,19 +2529,19 @@ window.IN_TIME_PRODUCTS = [
     ],
     "colors": [
       {
-        "name": "Imagen 5",
+        "name": "Vista principal",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg"
       },
       {
-        "name": "Imagen 1",
+        "name": "Vista 1",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/1_7b7c2d6c_2K.jpg"
       },
       {
-        "name": "Imagen 3",
+        "name": "Vista 3",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/3_55b6fb62_2K.jpg"
       },
       {
-        "name": "Imagen 4",
+        "name": "Vista 4",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/4_499b51dd_2K.jpg"
       }
     ],

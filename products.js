@@ -2816,7 +2816,15 @@ window.IN_TIME_PRODUCTS = [
         "image": "White.jpg"
       }
     ],
-    "img": "Azur_Blue.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Cuello%20de%20Pico%20Hombre%2061-066-0/3_1530d8e3_2K.jpg",
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Cuello%20de%20Pico%20Hombre%2061-066-0/3_1530d8e3_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Cuello%20de%20Pico%20Hombre%2061-066-0/1_e9d74d91_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "",
+      ""
+    ],
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-value-cuello-v",
     "features": [
       "Gramaje: 165 g/m²",

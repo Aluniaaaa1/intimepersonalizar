@@ -5056,111 +5056,131 @@ window.IN_TIME_PRODUCTS = [
     ]
   },
   {
-    "id": "fruit-of-the-loom-super-premium-011518",
-    "name": "Camiseta Fruit of the Loom Super Premium 011518",
-    "cat": "Camiseta Manga Corta",
-    "desc": "Camiseta de manga corta Fruit of the Loom Super Premium, referencia 011518. Cuello redondo de canalé de algodón/Lycra®, encintado en el cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular preencogido. 205 g/m². 100% algodón, excepto colores vigoré según ficha técnica. Tallas S, M, L, XL, XXL, 3XL, 4XL y 5XL.",
-    "tag": "FRUIT OF THE LOOM",
-    "brand": "Fruit of the Loom",
-    "img": "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_e0e1bdb6_2K.jpg?v=1794432041",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_e0e1bdb6_2K.jpg?v=1794432041",
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_0631f99f_2K.jpg?v=1794432041",
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_8bf22f7b_2K.jpg?v=1794432041"
-    ],
-    "colors": [
-      {
-        "name": "Navy",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp"
-      },
-      {
-        "name": "Classic Olive",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_11.webp"
-      },
-      {
-        "name": "Light Graphite",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_15.webp"
-      },
-      {
-        "name": "Heather Grey",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_16.webp"
-      },
-      {
-        "name": "Red",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_17.webp"
-      },
-      {
-        "name": "Black",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_18.webp"
-      },
-      {
-        "name": "White",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp"
-      },
-      {
-        "name": "Royal",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
-      }
-    ],
-    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-super-premium",
-    "features": [
-      "Referencia: 011518",
-      "Manga corta y cuello redondo de canalé",
-      "Gramaje: 205 g/m²",
-      "Composición: 100% algodón, excepto colores vigoré según ficha técnica",
-      "Tejido tubular preencogido",
-      "Tallas: S, M, L, XL, XXL, 3XL, 4XL y 5XL"
-    ]
-  },
+  "id": "fruit-of-the-loom-super-premium-011518",
+  "name": "Camiseta Fruit of the Loom Super Premium 011518",
+  "cat": "Camiseta Manga Corta",
+  "desc": "Camiseta de manga corta Fruit of the Loom Super Premium, referencia 011518. Cuello redondo de canalé de algodón/Lycra®, encintado en el cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular preencogido. 205 g/m². 100% algodón, excepto colores vigoré según ficha técnica. Tallas S, M, L, XL, XXL, 3XL, 4XL y 5XL.",
+  "tag": "FRUIT OF THE LOOM",
+  "brand": "Fruit of the Loom",
+  "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_e0e1bdb6_2K.jpg?v=1794432041",
+    "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_0631f99f_2K.jpg?v=1794432041",
+    "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_8bf22f7b_2K.jpg?v=1794432041"
+  ],
+  "colors": [
+    {
+      "name": "Navy",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp"
+    },
+    {
+      "name": "Classic Olive",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_11.webp"
+    },
+    {
+      "name": "Light Graphite",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_15.webp"
+    },
+    {
+      "name": "Heather Grey",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_16.webp"
+    },
+    {
+      "name": "Red",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_17.webp"
+    },
+    {
+      "name": "Black",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_18.webp"
+    },
+    {
+      "name": "White",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp"
+    },
+    {
+      "name": "Royal",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
+    }
+  ],
+  "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-super-premium",
+  "features": [
+    "Referencia: 011518",
+    "Manga corta y cuello redondo de canalé",
+    "Gramaje: 205 g/m²",
+    "Composición: 100% algodón, excepto colores vigoré según ficha técnica",
+    "Tejido tubular preencogido",
+    "Tallas: S, M, L, XL, XXL, 3XL, 4XL y 5XL"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
+    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/2_d6948337_2K.jpg",
+    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg"
+  ],
+  "galleryImagesLabels": [
+    "Fotografía principal",
+    "Fotografía 2",
+    "Fotografía 3"
+  ]
+},
   {
-    "id": "fruit-short-iconic-150-v-neck-011912",
-    "name": "Camiseta Fruit of the Loom Iconic 150 V-Neck 011912",
-    "cat": "Camiseta Manga Corta",
-    "grupo": "Prendas serigrafía",
-    "desc": "Camiseta de manga corta unisex con cuello de pico estrecho en canalé 1x1. Cuello de algodón/Lycra® con doble pespunte, encintado en cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular. Gramaje: 150 g/m² (blanco: 140 g/m²). Composición: 100% algodón peinado; Gris jaspeado: 97% algodón y 3% poliéster. REF: 011912.",
-    "tag": "FRUIT OF THE LOOM",
-    "brand": "Fruit of the Loom",
-    "img": "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_71fcc195_2K.jpg?v=1794432318",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_71fcc195_2K.jpg?v=1794432318",
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_5d10d6af_2K.jpg?v=1794432318",
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_fc2b54e3_2K.jpg?v=1794432319"
-    ],
-    "features": [
-      "Referencia: 011912",
-      "Gramaje: 150 g/m² (blanco: 140 g/m²)",
-      "Composición: 100% algodón peinado",
-      "Gris jaspeado: 97% algodón y 3% poliéster",
-      "Cuello de pico estrecho en canalé 1x1",
-      "Cuello encintado del mismo tejido",
-      "Etiqueta extraíble",
-      "Tejido tubular",
-      "Tallas: S, M, L, XL, XXL, 3XL, 4XL y 5XL"
-    ],
-    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-iconic-150-v-neck",
-    "colors": [
-      {
-        "name": "Blanco",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp"
-      },
-      {
-        "name": "Negro",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro - REF 011912.webp"
-      },
-      {
-        "name": "Azul marino oscuro",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro%20-%20REF%20011912.webp"
-      },
-      {
-        "name": "Azul royal",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal%20-%20REF%20011912.webp"
-      },
-      {
-        "name": "Gris jaspeado",
-        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado%20-%20REF%20011912.webp"
-      }
-    ]
-  },
+  "id": "fruit-short-iconic-150-v-neck-011912",
+  "name": "Camiseta Fruit of the Loom Iconic 150 V-Neck 011912",
+  "cat": "Camiseta Manga Corta",
+  "grupo": "Prendas serigrafía",
+  "desc": "Camiseta de manga corta unisex con cuello de pico estrecho en canalé 1x1. Cuello de algodón/Lycra® con doble pespunte, encintado en cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular. Gramaje: 150 g/m² (blanco: 140 g/m²). Composición: 100% algodón peinado; Gris jaspeado: 97% algodón y 3% poliéster. REF: 011912.",
+  "tag": "FRUIT OF THE LOOM",
+  "brand": "Fruit of the Loom",
+  "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20V%20Mujer/1_c1567bdf_2K.jpg",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_71fcc195_2K.jpg?v=1794432318",
+    "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_5d10d6af_2K.jpg?v=1794432318",
+    "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_fc2b54e3_2K.jpg?v=1794432319"
+  ],
+  "features": [
+    "Referencia: 011912",
+    "Gramaje: 150 g/m² (blanco: 140 g/m²)",
+    "Composición: 100% algodón peinado",
+    "Gris jaspeado: 97% algodón y 3% poliéster",
+    "Cuello de pico estrecho en canalé 1x1",
+    "Cuello encintado del mismo tejido",
+    "Etiqueta extraíble",
+    "Tejido tubular",
+    "Tallas: S, M, L, XL, XXL, 3XL, 4XL y 5XL"
+  ],
+  "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-iconic-150-v-neck",
+  "colors": [
+    {
+      "name": "Blanco",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp"
+    },
+    {
+      "name": "Negro",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro - REF 011912.webp"
+    },
+    {
+      "name": "Azul marino oscuro",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro%20-%20REF%20011912.webp"
+    },
+    {
+      "name": "Azul royal",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal%20-%20REF%20011912.webp"
+    },
+    {
+      "name": "Gris jaspeado",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado%20-%20REF%20011912.webp"
+    }
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20V%20Mujer/1_c1567bdf_2K.jpg",
+    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20V%20Mujer/2_d45ea084_2K.jpg",
+    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20V%20Mujer/3_7f3859d3_2K.jpg"
+  ],
+  "galleryImagesLabels": [
+    "Fotografía principal",
+    "Fotografía 2",
+    "Fotografía 3"
+  ]
+},
   {
     "id": "fruit-pure-cotton-t",
     "name": "Camiseta Fruit of the Loom Pure Cotton T",

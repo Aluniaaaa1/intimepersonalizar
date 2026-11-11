@@ -3342,9 +3342,9 @@ window.IN_TIME_PRODUCTS = [
       }
     ],
     "galleryImages": [
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/1_6d36be74_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/2_3fdb4bc8_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/3_937b0602_2K.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/1_6d36be74_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/2_3fdb4bc8_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/3_937b0602_2K.jpg"
     ],
     "galleryImagesLabels": [
       "Fotografía principal",
@@ -3359,7 +3359,7 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Fruit of the Loom Valueweight con cuello de pico para mujer. 100% algodón (excepto Heather Grey: 97% algodón / 3% poliéster y Dark Heather Grey: 50% algodón / 50% poliéster). Corte femenino entallado con escote de pico. Composición indicada en la ficha: 100% algodón, 160 g/m². Tallas: XS-XXL. REF: SC61398.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/fruit-of-the-loom-valueweight-cuello-pico-mujer-61-398-0-black.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Cuello%20de%20Pico%20Mujer%2061-398-0/1_c01f9885_2K.jpg",
     "images": [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/fruit-of-the-loom-valueweight-cuello-pico-mujer-61-398-0-black.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/fruit-of-the-loom-valueweight-cuello-pico-mujer-61-398-0-deep-navy.jpg",
@@ -3393,6 +3393,16 @@ window.IN_TIME_PRODUCTS = [
         "name": "White",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/fruit-of-the-loom-valueweight-cuello-pico-mujer-61-398-0-white.jpg"
       }
+    ],
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Cuello%20de%20Pico%20Mujer%2061-398-0/1_c01f9885_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Cuello%20de%20Pico%20Mujer%2061-398-0/2_1ef45916_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Cuello%20de%20Pico%20Mujer%2061-398-0/3_8f748ff3_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "Fotografía principal",
+      "Fotografía de modelo 2",
+      "Fotografía de modelo 3"
     ]
   },
   {

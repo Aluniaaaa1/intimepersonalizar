@@ -215,6 +215,28 @@
 
 <script src="products.js?v=20261111-iconic150t-gallery-final-01"></script>
 <script>
+/* Galería independiente: Fruit of the Loom Original 011505 */
+(()=>{
+ const imgs=[
+  "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_ac056a87_2K.jpg?v=1794434250",
+  "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_b1f287d2_2K.jpg?v=1794434249",
+  "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_8d9a12f5_2K.jpg?v=1794434249"
+ ];
+ const products=window.IN_TIME_PRODUCTS||[];
+ let p=products.find(x=>String(x.id||"").toLowerCase()==="camiseta-fruit-of-the-loom-original-011505")
+   ||products.find(x=>/fruit of the loom original 011505/i.test([x.name,x.id,x.desc].filter(Boolean).join(" ")));
+ if(!p){
+  p={id:"camiseta-fruit-of-the-loom-original-011505",name:"Camiseta Fruit of the Loom Original 011505",brand:"Fruit of the Loom",tag:"Fruit of the Loom",cat:"Camiseta Manga Corta",grupo:"Prendas serigrafía",desc:"Camiseta Fruit of the Loom Original 011505.",features:[]};
+  products.push(p);
+ }
+ p.img=imgs[0];
+ p.colors=[];
+ p.images=[];
+ p.galleryImages=imgs;
+ p.galleryImagesLabels=["Fotografía 1","Fotografía 2","Fotografía 3"];
+})();
+</script>
+<script>
 'use strict';
 (()=>{
 const data=(window.IN_TIME_PRODUCTS||[]).filter(p=>!(/011910|fruit of the loom iconic 165 classic t/i.test([p.id,p.name,p.desc,p.sourceUrl].filter(Boolean).join(' '))));

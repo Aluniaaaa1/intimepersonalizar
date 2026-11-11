@@ -2522,12 +2522,152 @@ window.IN_TIME_PRODUCTS = [
     "brand": "Fruit of the Loom",
     "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg",
     "images": [
+      "azur-blue.jpg",
+      "black.jpg",
+      "bottle-green.jpg",
+      "burgundy.jpg",
+      "chocolate.jpg",
+      "classic-olive.jpg",
+      "dark-heather-grey.jpg",
+      "deep-navy.jpg",
+      "fuchsia.jpg",
+      "heather-grey.jpg",
+      "heather-purple.jpg",
+      "kelly-green.jpg",
+      "khaki-beige.jpg",
+      "light-graphite.jpg",
+      "light-pink.jpg",
+      "lime.jpg",
+      "natural.jpg",
+      "navy.jpg",
+      "orange.jpg",
+      "purple.jpg",
+      "red.jpg",
+      "retro-heather-green.jpg",
+      "retro-heather-royal.jpg",
+      "royal-blue.jpg",
+      "sky-blue.jpg",
+      "sunflower.jpg",
+      "white.jpg",
+      "yellow.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/1_7b7c2d6c_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/3_55b6fb62_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/4_499b51dd_2K.jpg"
     ],
     "colors": [
+      {
+        "name": "Azur Blue",
+        "image": "azur-blue.jpg"
+      },
+      {
+        "name": "Black",
+        "image": "black.jpg"
+      },
+      {
+        "name": "Bottle Green",
+        "image": "bottle-green.jpg"
+      },
+      {
+        "name": "Burgundy",
+        "image": "burgundy.jpg"
+      },
+      {
+        "name": "Chocolate",
+        "image": "chocolate.jpg"
+      },
+      {
+        "name": "Classic Olive",
+        "image": "classic-olive.jpg"
+      },
+      {
+        "name": "Dark Heather Grey",
+        "image": "dark-heather-grey.jpg"
+      },
+      {
+        "name": "Deep Navy",
+        "image": "deep-navy.jpg"
+      },
+      {
+        "name": "Fuchsia",
+        "image": "fuchsia.jpg"
+      },
+      {
+        "name": "Heather Grey",
+        "image": "heather-grey.jpg"
+      },
+      {
+        "name": "Heather Purple",
+        "image": "heather-purple.jpg"
+      },
+      {
+        "name": "Kelly Green",
+        "image": "kelly-green.jpg"
+      },
+      {
+        "name": "Khaki beige",
+        "image": "khaki-beige.jpg"
+      },
+      {
+        "name": "Light Graphite",
+        "image": "light-graphite.jpg"
+      },
+      {
+        "name": "Light Pink",
+        "image": "light-pink.jpg"
+      },
+      {
+        "name": "Lime",
+        "image": "lime.jpg"
+      },
+      {
+        "name": "Natural",
+        "image": "natural.jpg"
+      },
+      {
+        "name": "Navy",
+        "image": "navy.jpg"
+      },
+      {
+        "name": "Orange",
+        "image": "orange.jpg"
+      },
+      {
+        "name": "Purple",
+        "image": "purple.jpg"
+      },
+      {
+        "name": "Red",
+        "image": "red.jpg"
+      },
+      {
+        "name": "Retro Heather Green",
+        "image": "retro-heather-green.jpg"
+      },
+      {
+        "name": "Retro Heather Royal",
+        "image": "retro-heather-royal.jpg"
+      },
+      {
+        "name": "Royal Blue",
+        "image": "royal-blue.jpg"
+      },
+      {
+        "name": "Sky Blue",
+        "image": "sky-blue.jpg"
+      },
+      {
+        "name": "Sunflower",
+        "image": "sunflower.jpg"
+      },
+      {
+        "name": "White",
+        "image": "white.jpg"
+      },
+      {
+        "name": "Yellow",
+        "image": "yellow.jpg"
+      },
       {
         "name": "Vista principal",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Valueweight%20Hombre/5_fe3660c2_2K.jpg"

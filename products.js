@@ -2902,10 +2902,7 @@ window.IN_TIME_PRODUCTS = [
     "galleryImages": [
           "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
           "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/2_d6948337_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg",
-          "https://raw.githubusercontent.com/aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
-          "https://raw.githubusercontent.com/aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/2_d6948337_2K.jpg",
-          "https://raw.githubusercontent.com/aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg"
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg"
     ],
     "galleryImagesLabels": [
       "",

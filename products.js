@@ -3097,27 +3097,94 @@ window.IN_TIME_PRODUCTS = [
     ]
   },
   {
-    "id": "fruit-short-fruit-of-the-loom-valueweight-ninos-61-033-0",
-    "name": "Camiseta Fruit of the Loom Valueweight Niños 61-033-0",
-    "cat": "Camiseta Manga Corta",
-    "desc": "Camiseta de manga corta Fruit of the Loom Valueweight para niños. 100% algodón (excepto Heather Grey: 97% algodón / 3% poliéster y otros colores Heather: 50% algodón / 50% poliéster). Cuello en canalé de algodón/Lycra® con tira cubrecosturas a tono y corte amplio tubular. Composición indicada en la ficha: 100% algodón, 160 g/m². Tallas infantiles desde 1/2 hasta 14/15 años. REF: SC221B.",
-    "tag": "FRUIT OF THE LOOM",
-    "brand": "Fruit of the Loom",
-    "img": "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc221b.jpg",
-    "images": [
-      "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc221b.jpg"
-    ],
-    "features": [
-      "Referencia: 61-033-0 / SC221B",
-      "Gramaje: 160 g/m²",
-      "Composición: 100% algodón",
-      "Heather Grey: 97% algodón y 3% poliéster",
-      "Otros colores Heather: 50% algodón y 50% poliéster",
-      "Corte amplio y tubular",
-      "Cuello en canalé de algodón/Lycra®",
-      "Tallas: 1/2, 2/3, 3/4, 5/6, 7/8, 9/11, 12/13 y 14/15 años"
-    ]
-  },
+      "id": "fruit-short-fruit-of-the-loom-valueweight-ninos-61-033-0",
+      "name": "Camiseta Fruit of the Loom Valueweight Niños 61-033-0",
+      "cat": "Camiseta Manga Corta",
+      "desc": "Camiseta de manga corta Fruit of the Loom Valueweight para niños. 100% algodón (excepto Heather Grey: 97% algodón / 3% poliéster y otros colores Heather: 50% algodón / 50% poliéster). Cuello en canalé de algodón/Lycra® con tira cubrecosturas a tono y corte amplio tubular. Composición indicada en la ficha: 100% algodón, 160 g/m². Tallas infantiles desde 1/2 hasta 14/15 años. REF: SC221B.",
+      "tag": "FRUIT OF THE LOOM",
+      "brand": "Fruit of the Loom",
+      "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Black.jpg",
+      "images": [
+        {
+          "name": "Black",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Black.jpg"
+        },
+        {
+          "name": "Bottle Green",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Bottle_Green.jpg"
+        },
+        {
+          "name": "Burgundy",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Burgundy.jpg"
+        },
+        {
+          "name": "Dark Heather Grey",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Dark_Heather_Grey.jpg"
+        },
+        {
+          "name": "Fuchsia",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Fuchsia.jpg"
+        },
+        {
+          "name": "Heather Grey",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Heather_Grey.jpg"
+        },
+        {
+          "name": "Kelly Green",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Kelly_Green.jpg"
+        },
+        {
+          "name": "Light Pink",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Light_Pink.jpg"
+        },
+        {
+          "name": "Lime",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Lime.jpg"
+        },
+        {
+          "name": "Natural",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Natural.jpg"
+        },
+        {
+          "name": "Navy",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Navy.jpg"
+        },
+        {
+          "name": "Orange",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Orange.jpg"
+        },
+        {
+          "name": "Red",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Red.jpg"
+        },
+        {
+          "name": "Royal Blue",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Royal_Blue.jpg"
+        },
+        {
+          "name": "Sky Blue",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Sky_Blue.jpg"
+        },
+        {
+          "name": "Sunflower",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Sunflower.jpg"
+        },
+        {
+          "name": "White",
+          "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_White.jpg"
+        }
+      ],
+      "features": [
+        "Referencia: 61-033-0 / SC221B",
+        "Gramaje: 160 g/m²",
+        "Composición: 100% algodón",
+        "Heather Grey: 97% algodón y 3% poliéster",
+        "Otros colores Heather: 50% algodón y 50% poliéster",
+        "Corte amplio y tubular",
+        "Cuello en canalé de algodón/Lycra®",
+        "Tallas: 1/2, 2/3, 3/4, 5/6, 7/8, 9/11, 12/13 y 14/15 años"
+      ]
+    },
   {
     "id": "fruit-short-fruit-of-the-loom-valueweight-cuello-pico-mujer-61-398-0",
     "name": "Camiseta Fruit of the Loom Valueweight Cuello de Pico Mujer 61-398-0",

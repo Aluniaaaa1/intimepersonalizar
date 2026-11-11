@@ -2998,6 +2998,16 @@ window.IN_TIME_PRODUCTS = [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_03_White_Red.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61026_04_White_Royal_Blue.jpg"
     ],
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20B%C3%A9isbol/3_a1aac2c7_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20B%C3%A9isbol/1_20d087ec_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20B%C3%A9isbol/2_9197052e_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "Fotografía principal",
+      "Fotografía de modelo 2",
+      "Fotografía de modelo 3"
+    ],
     "colors": [
       {
         "name": "White / Black",

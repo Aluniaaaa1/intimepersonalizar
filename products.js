@@ -4549,4 +4549,67 @@ window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
     ],
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-deporte-camiseta-tecnica-performace-mujer"
   }
+,
+  {
+    "id": "fruit-of-the-loom-super-premium-011518",
+    "name": "Camiseta Fruit of the Loom Super Premium 011518",
+    "cat": "Camiseta Manga Corta",
+    "desc": "Camiseta de manga corta Fruit of the Loom Super Premium, referencia 011518. Cuello redondo de canalé de algodón/Lycra®, encintado en el cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular preencogido. 205 g/m². 100% algodón, excepto colores vigoré según ficha técnica. Tallas S, M, L, XL, XXL, 3XL, 4XL y 5XL.",
+    "tag": "FRUIT OF THE LOOM",
+    "brand": "Fruit of the Loom",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp",
+    "images": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_11.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_15.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_16.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_17.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_18.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
+    ],
+    "colors": [
+      {
+        "name": "Navy",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp"
+      },
+      {
+        "name": "Classic Olive",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_11.webp"
+      },
+      {
+        "name": "Light Graphite",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_15.webp"
+      },
+      {
+        "name": "Heather Grey",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_16.webp"
+      },
+      {
+        "name": "Red",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_17.webp"
+      },
+      {
+        "name": "Black",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_18.webp"
+      },
+      {
+        "name": "White",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp"
+      },
+      {
+        "name": "Royal",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
+      }
+    ],
+    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-super-premium",
+    "features": [
+      "Referencia: 011518",
+      "Manga corta y cuello redondo de canalé",
+      "Gramaje: 205 g/m²",
+      "Composición: 100% algodón, excepto colores vigoré según ficha técnica",
+      "Tejido tubular preencogido",
+      "Tallas: S, M, L, XL, XXL, 3XL, 4XL y 5XL"
+    ]
+  }
 ];

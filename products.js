@@ -2886,6 +2886,9 @@ window.IN_TIME_PRODUCTS = [
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
     "images": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/1_bf72e8f6_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/2_a469ed3b_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/3_8ca52b04_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/01_Black_White.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/02_Navy_White.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/03_Red_White.jpg",
@@ -2896,7 +2899,7 @@ window.IN_TIME_PRODUCTS = [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/08_White_Red.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/09_White_Royal_Blue.jpg"
     ],
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/01_Black_White.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ringer%20Valueweight/1_bf72e8f6_2K.jpg",
     "colors": [
       {
         "name": "Black / White",

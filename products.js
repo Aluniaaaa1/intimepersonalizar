@@ -5193,4 +5193,104 @@ window.IN_TIME_PRODUCTS = [
       }
     ]
   }
+  {
+    "id": "fruit-pure-cotton-t-011362",
+    "name": "Camiseta Fruit of the Loom Pure Cotton T 011362",
+    "cat": "Camiseta Manga Corta",
+    "grupo": "Prendas serigrafía",
+    "desc": "Camiseta unisex de manga corta Fruit of the Loom Pure Cotton T. Confeccionada en 100% algodón orgánico peinado e hilado Ring Spun, con gramaje de 175 g/m². Corte clásico, cuello redondo de punto elástico 1x1 con pespunte de una aguja y cinta de hombro a hombro. Etiqueta desprendible. Disponible en tallas S, M, L, XL, 2XL y 3XL.",
+    "tag": "FRUIT OF THE LOOM",
+    "brand": "Fruit of the Loom",
+    "img": "https://www.tuskamisetas.com/resources/images/127_01_000_f-2025_01.jpg",
+    "images": [
+      "https://www.tuskamisetas.com/resources/images/127_01_000_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_008_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_101_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_135_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_202_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_211_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_300_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_312_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/Piktogramme/127_01_329.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_344_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_400_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_428_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/Piktogramme/127_01_532.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_533_f-2025_01.jpg",
+      "https://www.tuskamisetas.com/resources/images/127_01_742_f-2025_01.jpg"
+    ],
+    "features": [
+      "Referencia: 011362",
+      "Gramaje: 175 g/m²",
+      "Composición: 100% algodón orgánico peinado e hilado Ring Spun",
+      "Corte clásico",
+      "Cuello redondo de canalé 1x1 con pespunte de una aguja",
+      "Cinta de hombro a hombro",
+      "Etiqueta desprendible",
+      "Tallas: S, M, L, XL, 2XL y 3XL"
+    ],
+    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-pure-cotton-t",
+    "colors": [
+      {
+        "name": "White",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_000_f-2025_01.jpg"
+      },
+      {
+        "name": "Natural",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_008_f-2025_01.jpg"
+      },
+      {
+        "name": "Black",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_101_f-2025_01.jpg"
+      },
+      {
+        "name": "Light Graphite",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_135_f-2025_01.jpg"
+      },
+      {
+        "name": "Deep Navy",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_202_f-2025_01.jpg"
+      },
+      {
+        "name": "Mountain Blue",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_211_f-2025_01.jpg"
+      },
+      {
+        "name": "Royal Blue",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_300_f-2025_01.jpg"
+      },
+      {
+        "name": "Ocean Teal",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_312_f-2025_01.jpg"
+      },
+      {
+        "name": "Mineral Blue",
+        "image": "https://www.tuskamisetas.com/resources/Piktogramme/127_01_329.jpg"
+      },
+      {
+        "name": "Dark Plum",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_344_f-2025_01.jpg"
+      },
+      {
+        "name": "Red",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_400_f-2025_01.jpg"
+      },
+      {
+        "name": "Cranberry",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_428_f-2025_01.jpg"
+      },
+      {
+        "name": "Sage",
+        "image": "https://www.tuskamisetas.com/resources/Piktogramme/127_01_532.jpg"
+      },
+      {
+        "name": "Classic Olive",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_533_f-2025_01.jpg"
+      },
+      {
+        "name": "Desert Sand",
+        "image": "https://www.tuskamisetas.com/resources/images/127_01_742_f-2025_01.jpg"
+      }
+    ]
+  }
 ];

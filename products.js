@@ -2845,17 +2845,17 @@ window.IN_TIME_PRODUCTS = [
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
     "images": [
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/2_d6948337_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_11.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_15.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_16.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_17.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_18.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/2_d6948337_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_11.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_15.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_16.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_17.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_18.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
     ],
     "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-super-premium",
@@ -2900,9 +2900,9 @@ window.IN_TIME_PRODUCTS = [
       }
     ],
     "galleryImages": [
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/2_d6948337_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/2_d6948337_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg"
     ],
     "galleryImagesLabels": [
       "",
@@ -3034,8 +3034,11 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Fruit of the Loom Valueweight para mujer. 100% algodón (excepto Heather Grey: 97% algodón / 3% poliéster y otros colores Heather: 50% algodón / 50% poliéster). Corte femenino entallado con costuras laterales, cuello redondo de algodón/Lycra® y tira de limpieza. Composición indicada en la ficha: 100% algodón, 165 g/m² (White: 160 g/m²). Tallas: XS-XXL. REF: SC61372.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_04.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Mujer%2061-372-0/2_245216b8_2K.jpg",
     "images": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Mujer%2061-372-0/2_245216b8_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Mujer%2061-372-0/1_7c29f2b4_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Mujer%2061-372-0/3_80300d55_2K.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_04.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_05.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_06.jpg",
@@ -3168,6 +3171,16 @@ window.IN_TIME_PRODUCTS = [
       "Corte femenino entallado",
       "Cuello redondo de algodón/Lycra®",
       "Tallas: XS, S, M, L, XL, XXL"
+    ],
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Mujer%2061-372-0/2_245216b8_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Mujer%2061-372-0/1_7c29f2b4_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Mujer%2061-372-0/3_80300d55_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "Fotografía principal",
+      "Fotografía de modelo 1",
+      "Fotografía de modelo 3"
     ]
   },
   {

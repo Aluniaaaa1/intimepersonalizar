@@ -217,7 +217,7 @@
 <script>
 'use strict';
 (()=>{
-const data=window.IN_TIME_PRODUCTS;
+const data=(window.IN_TIME_PRODUCTS||[]).filter(p=>!(/011910|fruit of the loom iconic 165 classic t/i.test([p.id,p.name,p.desc,p.sourceUrl].filter(Boolean).join(' '))));
 
 const clasificarProducto=p=>{
  const t=(p.name+' '+p.cat+' '+p.desc).toLocaleLowerCase('es');

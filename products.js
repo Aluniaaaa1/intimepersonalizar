@@ -2987,6 +2987,104 @@ window.IN_TIME_PRODUCTS = [
           "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_26.jpg",
           "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_27.jpg"
     ],
+    "colors": [
+          {
+                "name": "Azur Blue",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_04.jpg"
+          },
+          {
+                "name": "Black",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_05.jpg"
+          },
+          {
+                "name": "Bottle Green",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_06.jpg"
+          },
+          {
+                "name": "Burgundy",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_07.jpg"
+          },
+          {
+                "name": "Dark Heather Grey",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_08.jpg"
+          },
+          {
+                "name": "Deep Navy",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_09.jpg"
+          },
+          {
+                "name": "Fuchsia",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_10.jpg"
+          },
+          {
+                "name": "Heather Burgundy",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_11.jpg"
+          },
+          {
+                "name": "Heather Grey",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_12.jpg"
+          },
+          {
+                "name": "Heather Purple",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_13.jpg"
+          },
+          {
+                "name": "Kelly Green",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_14.jpg"
+          },
+          {
+                "name": "Light Graphite",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_15.jpg"
+          },
+          {
+                "name": "Light Pink",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_16.jpg"
+          },
+          {
+                "name": "Lime",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_17.jpg"
+          },
+          {
+                "name": "Navy",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_18.jpg"
+          },
+          {
+                "name": "Orange",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_19.jpg"
+          },
+          {
+                "name": "Purple",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_20.jpg"
+          },
+          {
+                "name": "Red",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_21.jpg"
+          },
+          {
+                "name": "Royal Blue",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_22.jpg"
+          },
+          {
+                "name": "Sky Blue",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_23.jpg"
+          },
+          {
+                "name": "Sunflower",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_24.jpg"
+          },
+          {
+                "name": "Vintage Heather Navy",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_25.jpg"
+          },
+          {
+                "name": "White",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_26.jpg"
+          },
+          {
+                "name": "Yellow",
+                "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/SC61372_27.jpg"
+          }
+    ],
     "features": [
       "Referencia: 61-372-0 / SC61372",
       "Gramaje: 165 g/m² (White: 160 g/m²)",

@@ -3404,10 +3404,30 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta para mujer. Cuello redondo canalé de algodón/Lycra®, cinta en el cuello, costuras dobles en mangas, cuello y dobladillo, tejido tubular preencogido. Gramaje: 150 g/m². Composición: 100% algodón, excepto colores vigoré según ficha técnica. REF: 011901.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://www.tuskamisetas.com/resources/images/112_01_413_mb-2024_01.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
     "images": [
-      "https://www.tuskamisetas.com/resources/images/112_01_413_mb-2024_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/112_01_413_m-2024_01.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fucsia.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20zinc.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Natural.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Verde%20kelly.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal%20jaspeado%20retro.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Verde%20jaspeado%20retro.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo%20jaspeado%20vintage.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Verde%20oliva.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20grafito.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Amarillo%20girasol.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Verde%20pino.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Granate%20jaspeado.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/P%C3%BArpura%20jaspeado.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Granate.webp",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Neomint.webp"
     ],
     "features": [
       "Gramaje: 150 g/m²",
@@ -3416,7 +3436,97 @@ window.IN_TIME_PRODUCTS = [
       "Cuello redondo de canalé algodón/Lycra®",
       "Cuello encintado y costuras dobles en mangas, cuello y dobladillo"
     ],
-    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-iconic-150-t-de-mujer"
+    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-iconic-150-t-de-mujer",
+    "colors": [
+      {
+        "name": "Blanco",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp"
+      },
+      {
+        "name": "Negro",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp"
+      },
+      {
+        "name": "Fucsia",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fucsia.webp"
+      },
+      {
+        "name": "Rojo",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo.webp"
+      },
+      {
+        "name": "Gris zinc",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20zinc.webp"
+      },
+      {
+        "name": "Azul marino oscuro",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro.webp"
+      },
+      {
+        "name": "Azul royal",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal.webp"
+      },
+      {
+        "name": "Natural",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Natural.webp"
+      },
+      {
+        "name": "Gris jaspeado",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado.webp"
+      },
+      {
+        "name": "Verde kelly",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Verde%20kelly.webp"
+      },
+      {
+        "name": "Azul royal jaspeado retro",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal%20jaspeado%20retro.webp"
+      },
+      {
+        "name": "Verde jaspeado retro",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Verde%20jaspeado%20retro.webp"
+      },
+      {
+        "name": "Rojo jaspeado vintage",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Rojo%20jaspeado%20vintage.webp"
+      },
+      {
+        "name": "Verde oliva",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Verde%20oliva.webp"
+      },
+      {
+        "name": "Gris grafito",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20grafito.webp"
+      },
+      {
+        "name": "Amarillo girasol",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Amarillo%20girasol.webp"
+      },
+      {
+        "name": "Verde pino",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Verde%20pino.webp"
+      },
+      {
+        "name": "Granate jaspeado",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Granate%20jaspeado.webp"
+      },
+      {
+        "name": "Púrpura jaspeado",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/P%C3%BArpura%20jaspeado.webp"
+      },
+      {
+        "name": "Azul marino",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino.webp"
+      },
+      {
+        "name": "Granate",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Granate.webp"
+      },
+      {
+        "name": "Neomint",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Neomint.webp"
+      }
+    ]
   },
   {
     "id": "fruit-short-iconic-150-v-ladies-011913",

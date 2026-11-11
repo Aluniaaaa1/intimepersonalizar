@@ -2826,6 +2826,40 @@ window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
       "Composición: 100 % algodón. Heather Grey: 97 % algodón y 3 % poliéster; Ash: 99 % algodón y 1 % poliéster",
       "Cuello de algodón/Lycra® con tira cubrecosturas de hombro a hombro",
       "Lavable a máquina hasta 60 °C"
+    ],
+    "colors": [
+      {
+        "name": "Navy",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp"
+      },
+      {
+        "name": "Clasic olive",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_11.webp"
+      },
+      {
+        "name": "Light graphite",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_15.webp"
+      },
+      {
+        "name": "Heather grey",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_16.webp"
+      },
+      {
+        "name": "Red",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_17.webp"
+      },
+      {
+        "name": "Black",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_18.webp"
+      },
+      {
+        "name": "White",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp"
+      },
+      {
+        "name": "Royal",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
+      }
     ]
   },
   {

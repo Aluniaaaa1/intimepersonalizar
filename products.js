@@ -1,4 +1,4 @@
-window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
+window.IN_TIME_PRODUCTS = [
   {
     "id": "soron-15x23x7-80g",
     "name": "SORON 15X23X7/ 80G",
@@ -2870,9 +2870,55 @@ window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
     "images": [
-      "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc61168.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/01_Black_White.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/02_Navy_White.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/03_Red_White.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/04_Royal_Blue_White.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/05_Sunflower_Kelly_Green.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/06_White_Black.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/07_White_Navy.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/08_White_Red.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/09_White_Royal_Blue.jpg"
     ],
-    "img": "https://www.tuskamisetas.com/uploads/media/modelo/fruit-of-the-loom-sc61168.jpg"
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/01_Black_White.jpg",
+    "colors": [
+      {
+        "name": "Black / White",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/01_Black_White.jpg"
+      },
+      {
+        "name": "Navy / White",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/02_Navy_White.jpg"
+      },
+      {
+        "name": "Red / White",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/03_Red_White.jpg"
+      },
+      {
+        "name": "Royal Blue / White",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/04_Royal_Blue_White.jpg"
+      },
+      {
+        "name": "Sunflower / Kelly Green",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/05_Sunflower_Kelly_Green.jpg"
+      },
+      {
+        "name": "White / Black",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/06_White_Black.jpg"
+      },
+      {
+        "name": "White / Navy",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/07_White_Navy.jpg"
+      },
+      {
+        "name": "White / Red",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/08_White_Red.jpg"
+      },
+      {
+        "name": "White / Royal Blue",
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/09_White_Royal_Blue.jpg"
+      }
+    ]
   },
   {
     "id": "fruit-short-fruit-of-the-loom-valueweight-baseball-sc61026",
@@ -4548,8 +4594,7 @@ window.IN_TIME_PRODUCTS = window.IN_TIME_PRODUCTS = [
       "Corte femenino"
     ],
     "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-deporte-camiseta-tecnica-performace-mujer"
-  }
-,
+  },
   {
     "id": "fruit-of-the-loom-super-premium-011518",
     "name": "Camiseta Fruit of the Loom Super Premium 011518",

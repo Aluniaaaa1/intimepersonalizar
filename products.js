@@ -3620,7 +3620,7 @@ window.IN_TIME_PRODUCTS = [
       "Fotografía de modelo 2",
       "Fotografía de modelo 3"
     ]
-  }
+  },
   {
     "id": "gildan-light-cotton-adult-tshirt",
     "name": "Camiseta Light Cotton Gildan Adultos",

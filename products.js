@@ -5052,16 +5052,11 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Fruit of the Loom Super Premium, referencia 011518. Cuello redondo de canalé de algodón/Lycra®, encintado en el cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular preencogido. 205 g/m². 100% algodón, excepto colores vigoré según ficha técnica. Tallas S, M, L, XL, XXL, 3XL, 4XL y 5XL.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp",
+    "img": "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_e0e1bdb6_2K.jpg?v=1794432041",
     "images": [
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_08.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_11.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_15.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_16.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_17.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_18.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_37.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/Super_Premium_011518_foto_39.webp"
+      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_e0e1bdb6_2K.jpg?v=1794432041",
+      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_0631f99f_2K.jpg?v=1794432041",
+      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_8bf22f7b_2K.jpg?v=1794432041"
     ],
     "colors": [
       {
@@ -5115,13 +5110,11 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta unisex con cuello de pico estrecho en canalé 1x1. Cuello de algodón/Lycra® con doble pespunte, encintado en cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular. Gramaje: 150 g/m² (blanco: 140 g/m²). Composición: 100% algodón peinado; Gris jaspeado: 97% algodón y 3% poliéster. REF: 011912.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp",
+    "img": "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_71fcc195_2K.jpg?v=1794432318",
     "images": [
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco - REF 011912.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro - REF 011912.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20marino%20oscuro%20-%20REF%20011912.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Azul%20royal%20-%20REF%20011912.webp",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Gris%20jaspeado%20-%20REF%20011912.webp"
+      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_71fcc195_2K.jpg?v=1794432318",
+      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_5d10d6af_2K.jpg?v=1794432318",
+      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_fc2b54e3_2K.jpg?v=1794432319"
     ],
     "features": [
       "Referencia: 011912",

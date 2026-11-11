@@ -5194,8 +5194,8 @@ window.IN_TIME_PRODUCTS = [
     ]
   }
   {
-    "id": "fruit-pure-cotton-t-011362",
-    "name": "Camiseta Fruit of the Loom Pure Cotton T 011362",
+    "id": "fruit-pure-cotton-t",
+    "name": "Camiseta Fruit of the Loom Pure Cotton T",
     "cat": "Camiseta Manga Corta",
     "grupo": "Prendas serigrafía",
     "desc": "Camiseta unisex de manga corta Fruit of the Loom Pure Cotton T. Confeccionada en 100% algodón orgánico peinado e hilado Ring Spun, con gramaje de 175 g/m². Corte clásico, cuello redondo de punto elástico 1x1 con pespunte de una aguja y cinta de hombro a hombro. Etiqueta desprendible. Disponible en tallas S, M, L, XL, 2XL y 3XL.",
@@ -5220,7 +5220,6 @@ window.IN_TIME_PRODUCTS = [
       "https://www.tuskamisetas.com/resources/images/127_01_742_f-2025_01.jpg"
     ],
     "features": [
-      "Referencia: 011362",
       "Gramaje: 175 g/m²",
       "Composición: 100% algodón orgánico peinado e hilado Ring Spun",
       "Corte clásico",

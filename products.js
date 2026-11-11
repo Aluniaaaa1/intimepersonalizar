@@ -5017,6 +5017,7 @@ window.IN_TIME_PRODUCTS = [
     ]
   },
   {
+  {
     "id": "fruit-short-performance-athleta-mujer-015-01",
     "name": "Camiseta Fruit of the Loom Performance Mujer",
     "cat": "Camiseta Manga Corta",
@@ -5024,45 +5025,45 @@ window.IN_TIME_PRODUCTS = [
     "brand": "Fruit of the Loom",
     "desc": "Camiseta técnica de tirantes para mujer Fruit of the Loom Performance. Tejido ligero de poliéster que facilita la absorción de la humedad y el secado rápido. Espalda nadadora y corte femenino.",
     "tag": "Fruit of the Loom",
-    "img": "https://www.tuskamisetas.com/resources/images/015_01_439_m-2019_01.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg",
     "galleryImages": [
-      "https://www.tuskamisetas.com/resources/images/015_01_000_f-2019_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/015_01_101_f-2019_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/015_01_202_f-2019_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/015_01_300_f-2019_01.jpg",
-      "https://www.tuskamisetas.com/resources/Piktogramme/015_01_310.jpg",
-      "https://www.tuskamisetas.com/resources/images/015_01_400_f-2019_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/015_01_439_f-2019_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/015_01_521_f-2019_01.jpg",
-      "https://www.tuskamisetas.com/resources/images/015_01_602_f-2019_01.jpg"
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Black.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Deep-Navy.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Royal.jpg",
+          "https://www.tuskamisetas.com/resources/Piktogramme/015_01_310.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Red.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fuchsia.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Lime-Green.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Bright-Yellow.jpg"
     ],
     "galleryImagesLabels": [
-      "White",
-      "Black",
-      "Deep Navy",
-      "Royal",
-      "Azure Blue",
-      "Red",
-      "Fuchsia",
-      "Lime Green",
-      "Bright Yellow"
+          "White",
+          "Black",
+          "Deep Navy",
+          "Royal",
+          "Azure Blue",
+          "Red",
+          "Fuchsia",
+          "Lime Green",
+          "Bright Yellow"
     ],
     "colors": [
       {
         "name": "White",
-        "image": "https://www.tuskamisetas.com/resources/images/015_01_000_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg"
       },
       {
         "name": "Black",
-        "image": "https://www.tuskamisetas.com/resources/images/015_01_101_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Black.jpg"
       },
       {
         "name": "Deep Navy",
-        "image": "https://www.tuskamisetas.com/resources/images/015_01_202_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Deep-Navy.jpg"
       },
       {
         "name": "Royal",
-        "image": "https://www.tuskamisetas.com/resources/images/015_01_300_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Royal.jpg"
       },
       {
         "name": "Azure Blue",
@@ -5070,19 +5071,19 @@ window.IN_TIME_PRODUCTS = [
       },
       {
         "name": "Red",
-        "image": "https://www.tuskamisetas.com/resources/images/015_01_400_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Red.jpg"
       },
       {
         "name": "Fuchsia",
-        "image": "https://www.tuskamisetas.com/resources/images/015_01_439_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fuchsia.jpg"
       },
       {
         "name": "Lime Green",
-        "image": "https://www.tuskamisetas.com/resources/images/015_01_521_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Lime-Green.jpg"
       },
       {
         "name": "Bright Yellow",
-        "image": "https://www.tuskamisetas.com/resources/images/015_01_602_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Bright-Yellow.jpg"
       }
     ],
     "features": [
@@ -5095,8 +5096,8 @@ window.IN_TIME_PRODUCTS = [
       "Costuras laterales",
       "Corte femenino"
     ],
-    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-deporte-camiseta-tecnica-performace-mujer"
-  },
+    "sourceUrl": "https://www.tuskamisetas.com/es/producto/fruit-of-the-loom-deporte-camiseta-atleta-performance-mujer"
+  }
   {
     "id": "fruit-of-the-loom-super-premium-011518",
     "name": "Camiseta Fruit of the Loom Super Premium 011518",

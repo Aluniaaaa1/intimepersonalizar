@@ -3547,7 +3547,7 @@ window.IN_TIME_PRODUCTS = [
       "Fotografía de modelo 3"
     ]
   },
-  {
+{
     "id": "fruit-short-iconic-150-v-ladies-011913",
     "name": "Camiseta Fruit of the Loom Iconic 150 V Mujer",
     "cat": "Camiseta Manga Corta",
@@ -3555,7 +3555,7 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta para mujer con cuello de pico de algodón/Lycra® y doble pespunte, encintado en cuello y costuras dobles en mangas, cuello y dobladillo. Gramaje: 150 g/m². Composición: 100% algodón peinado. REF: 011913.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
+    "img": "https://aluniaaaa1.github.io/intimepersonalizar/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20V%20Mujer/2_d45ea084_2K.jpg",
     "images": [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Blanco.webp",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Negro.webp",
@@ -3609,8 +3609,18 @@ window.IN_TIME_PRODUCTS = [
         "name": "Soft Lavender",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Soft_Lavender.jpg"
       }
+    ],
+    "galleryImages": [
+      "https://aluniaaaa1.github.io/intimepersonalizar/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20V%20Mujer/2_d45ea084_2K.jpg",
+      "https://aluniaaaa1.github.io/intimepersonalizar/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20V%20Mujer/1_c1567bdf_2K.jpg",
+      "https://aluniaaaa1.github.io/intimepersonalizar/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Iconic%20150%20V%20Mujer/3_7f3859d3_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "Fotografía principal",
+      "Fotografía de modelo 2",
+      "Fotografía de modelo 3"
     ]
-  },
+  }
   {
     "id": "gildan-light-cotton-adult-tshirt",
     "name": "Camiseta Light Cotton Gildan Adultos",

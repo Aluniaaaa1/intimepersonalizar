@@ -5017,7 +5017,6 @@ window.IN_TIME_PRODUCTS = [
     ]
   },
   {
-  {
     "id": "fruit-short-performance-athleta-mujer-015-01",
     "name": "Camiseta Fruit of the Loom Performance Mujer",
     "cat": "Camiseta Manga Corta",

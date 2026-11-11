@@ -3190,7 +3190,7 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Fruit of the Loom Valueweight para niños. 100% algodón (excepto Heather Grey: 97% algodón / 3% poliéster y otros colores Heather: 50% algodón / 50% poliéster). Cuello en canalé de algodón/Lycra® con tira cubrecosturas a tono y corte amplio tubular. Composición indicada en la ficha: 100% algodón, 160 g/m². Tallas infantiles desde 1/2 hasta 14/15 años. REF: SC221B.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Fruit_of_the_Loom_SC221B_Black.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Valueweight%20Ni%C3%B1os%2061-033-0/1_6d36be74_2K.jpg",
     "images": [
       {
         "name": "Black",

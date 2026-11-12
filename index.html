@@ -317,7 +317,7 @@
   "Doble costura en mangas y bajo.",
   "Construcción tubular; Light Oxford puede variar según la ficha de color."
  ];
- const classicKidsBase="https://aluniaaaa1.github.io/intimepersonalizar/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/";
+ const classicKidsBase="https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/";
  const classicKidsColors=[
   {name:"White",image:classicKidsBase+"Color_White.jpg"},
   {name:"Black",image:classicKidsBase+"Color_Black.jpg"},
@@ -326,10 +326,21 @@
   {name:"Classic Red",image:classicKidsBase+"Color_Classic_Red.jpg"},
   {name:"Yellow",image:classicKidsBase+"Muestra_Color_Yellow.jpg"}
  ];
- add("russell-classic-kids","Camiseta Russell Classic Niño",
+ add("russell-classic-nino","Camiseta Russell Classic Niño",
  "Camiseta infantil de manga corta de algodón ring-spun, con construcción tubular y acabados reforzados. Diseñada para uso diario y personalización.",
  ["100% algodón ring-spun. Light Oxford: 93% algodón y 7% viscosa.","Gramaje: 180 g/m²; blanco: 175 g/m².","Tejido single jersey de corte clásico.","Cuello encintado de hombro a hombro.","Etiqueta interior para escribir el nombre.","Doble puntada en cuello, mangas y bajos.","Construcción tubular."],
- "https://www.tuskamisetas.com/es/producto/russell-europe-ninos-camiseta-nino",classicKidsColors[0].image,classicKidsColors);
+ "https://www.tuskamisetas.com/es/producto/russell-europe-ninos-camiseta-nino",classicKidsBase+"1_69b702ff_2K.jpg",classicKidsColors);
+ const classicKidsProduct=products.find(x=>x.id==="russell-classic-nino");
+ if(classicKidsProduct){
+  classicKidsProduct.img=classicKidsBase+"1_69b702ff_2K.jpg";
+  classicKidsProduct.galleryImages=[
+   classicKidsBase+"1_69b702ff_2K.jpg",
+   classicKidsBase+"2_b1c10626_2K.jpg",
+   classicKidsBase+"3_8f21b8aa_2K.jpg"
+  ];
+  classicKidsProduct.galleryImagesLabels=["Fotografía principal","Fotografía 2","Fotografía 3"];
+  classicKidsProduct.colors=classicKidsColors;
+ }
 
  add("russell-authentic-classic-women","Camiseta Russell Authentic Classic Mujer",
  "Camiseta de mujer de la colección Authentic Classic, con silueta femenina y acabados cuidados para un aspecto clásico y una superficie adecuada para personalización.",

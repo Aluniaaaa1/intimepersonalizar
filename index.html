@@ -216,19 +216,19 @@
 <script src="products.js?v=20261111-iconic150t-gallery-final-01"></script>
 
 <script>
-/* Corrección definitiva de la galería: Fruit of the Loom Super Premium 011518 */
+/* Galería exclusiva del producto Fruit of the Loom Super Premium 011518. */
 (()=>{
  const products=window.IN_TIME_PRODUCTS||[];
- const p=products.find(x=>/011518|super premium/i.test([x.id,x.name,x.desc,x.sourceUrl].filter(Boolean).join(" ")));
+ const norm=v=>String(v||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
+ const target="camiseta fruit of the loom super premium 011518";
+ const p=products.find(x=>{
+  const name=norm(x.name), id=norm(x.id), source=norm(x.sourceUrl);
+  return name===target || id.includes("011518") || source.includes("011518");
+ });
  if(!p) return;
  const base="https://aluniaaaa1.github.io/intimepersonalizar/modelo/Super%20Premium%20011518/";
- const imgs=[
-  base+"1_e0e1bdb6_2K%20(1).jpg",
-  base+"2_0631f99f_2K%20(1).jpg",
-  base+"3_8bf22f7b_2K%20(1).jpg"
- ];
- p.img=imgs[0];
- p.galleryImages=imgs;
+ const imgs=[base+"1_e0e1bdb6_2K%20(1).jpg",base+"2_0631f99f_2K%20(1).jpg",base+"3_8bf22f7b_2K%20(1).jpg"];
+ p.img=imgs[0]; p.galleryImages=imgs;
  p.galleryImagesLabels=["Fotografía 1","Fotografía 2","Fotografía 3"];
 })();
 </script>

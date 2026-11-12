@@ -2145,23 +2145,23 @@ window.IN_TIME_PRODUCTS = [
     "colors": [
       {
         "name": "White",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_000_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_White.jpg"
       },
       {
         "name": "Black",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_101_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Black.jpg"
       },
       {
         "name": "Heather Grey",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_123_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Heather_Grey.jpg"
       },
       {
         "name": "Light Graphite",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_135_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Light_Graphite.jpg"
       },
       {
         "name": "Navy",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_200_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Navy.jpg"
       },
       {
         "name": "Deep Navy",
@@ -2169,27 +2169,27 @@ window.IN_TIME_PRODUCTS = [
       },
       {
         "name": "Royal",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_300_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Royal.jpg"
       },
       {
         "name": "Azure Blue",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_310.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Azure_Blue.jpg"
       },
       {
         "name": "Sky Blue",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_320_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Sky_Blue.jpg"
       },
       {
         "name": "Purple",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_349_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Purple.jpg"
       },
       {
         "name": "Red",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_400_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Red.jpg"
       },
       {
         "name": "Orange",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_410.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Orange.jpg"
       },
       {
         "name": "Brick Red",
@@ -2197,31 +2197,31 @@ window.IN_TIME_PRODUCTS = [
       },
       {
         "name": "Fuchsia",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_439_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Fuchsia.jpg"
       },
       {
         "name": "Burgundy",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_448_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Burgundy.jpg"
       },
       {
         "name": "Kelly Green",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_518_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Kelly_Green.jpg"
       },
       {
         "name": "Lime Green",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_521_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Lime_Green.jpg"
       },
       {
         "name": "Bottle Green",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_540_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Bottle_Green.jpg"
       },
       {
         "name": "Yellow",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_601_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Yellow.jpg"
       },
       {
         "name": "Sunflower",
-        "image": "https://www.tuskamisetas.com/resources/images/124_01_601_f-2019_01.jpg"
+        "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/Fruit_of_the_Loom_Original_Lady_Fit_Sunflower.jpg"
       }
     ],
     "features": [
@@ -5278,13 +5278,16 @@ window.IN_TIME_PRODUCTS = [
         "name": "Arena del desierto",
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Desert-Sand.jpg"
       }
-    ]
-  ,
-    "galleryImages": [
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/1_f14b0701_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/2_68b1e771_2K.jpg",
-          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/3_93cb0665_2K.jpg"
     ],
-    "galleryImagesLabels": ["Fotografía principal", "Fotografía 2", "Fotografía 3"]
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/1_f14b0701_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/2_68b1e771_2K.jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/3_93cb0665_2K.jpg"
+    ],
+    "galleryImagesLabels": [
+      "Fotografía principal",
+      "Fotografía 2",
+      "Fotografía 3"
+    ]
   }
 ];

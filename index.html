@@ -376,6 +376,19 @@ if(category==='Prendas serigrafía' && subcategory==='Camiseta Manga Corta'){
  gildanShortButton.append(gildanShortLogo,gildanShortName);
  gildanShortButton.addEventListener('click',()=>{brand=brand==='Gildan'?'Todos':'Gildan';renderSubfilters();render();});
  brandWrap.append(gildanShortButton);
+ const russellShortButton=document.createElement('button');
+ russellShortButton.type='button';
+ russellShortButton.className='brand-submenu-item'+(brand==='RUSSELL'?' active':'');
+ russellShortButton.setAttribute('aria-pressed',String(brand==='RUSSELL'));
+ const russellShortLogo=document.createElement('img');
+ russellShortLogo.src='https://aluniaaaa1.github.io/intimepersonalizar/Russell-Europe-2022-logo.jpg';
+ russellShortLogo.alt='Russell Europe';
+ russellShortLogo.loading='lazy';
+ const russellShortName=document.createElement('span');
+ russellShortName.textContent='Russell Europe';
+ russellShortButton.append(russellShortLogo,russellShortName);
+ russellShortButton.addEventListener('click',()=>{brand=brand==='RUSSELL'?'Todos':'RUSSELL';renderSubfilters();render();});
+ brandWrap.append(russellShortButton);
  subfilters.append(brandWrap);
  if(brand==='Fruit of the Loom'){
   const catalogCard=document.createElement('section');

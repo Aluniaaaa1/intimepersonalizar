@@ -214,6 +214,25 @@
 <div class="book-modal" id="fruit-book-modal" aria-hidden="true"><div class="book-shell" role="dialog" aria-modal="true" aria-label="Catálogo Fruit of the Loom 2026"><div class="book-top"><span>FRUIT OF THE LOOM · CATÁLOGO 2026</span><button class="book-close" id="fruit-book-close" aria-label="Cerrar catálogo">×</button></div><div class="book-pages"><div class="book-page left" id="book-left"><img id="book-img-left" alt="Página del catálogo Fruit of the Loom"></div><div class="book-page right blank" id="book-right"><img id="book-img-right" alt="Página del catálogo Fruit of the Loom"></div></div><div class="book-controls"><button id="book-prev" type="button">← Anterior</button><strong id="book-page-count">1 / 43</strong><button id="book-next" type="button">Siguiente →</button></div><div class="book-hint">Pasa las páginas con los botones o las flechas del teclado</div></div></div>
 
 <script src="products.js?v=20261111-iconic150t-gallery-final-01"></script>
+
+<script>
+/* Corrección definitiva de la galería: Fruit of the Loom Super Premium 011518 */
+(()=>{
+ const products=window.IN_TIME_PRODUCTS||[];
+ const p=products.find(x=>/011518|super premium/i.test([x.id,x.name,x.desc,x.sourceUrl].filter(Boolean).join(" ")));
+ if(!p) return;
+ const base="https://aluniaaaa1.github.io/intimepersonalizar/modelo/Super%20Premium%20011518/";
+ const imgs=[
+  base+"1_e0e1bdb6_2K%20(1).jpg",
+  base+"2_0631f99f_2K%20(1).jpg",
+  base+"3_8bf22f7b_2K%20(1).jpg"
+ ];
+ p.img=imgs[0];
+ p.galleryImages=imgs;
+ p.galleryImagesLabels=["Fotografía 1","Fotografía 2","Fotografía 3"];
+})();
+</script>
+
 <script>
 /* Galería independiente: Fruit of the Loom Original 011505 */
 (()=>{

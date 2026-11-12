@@ -5062,11 +5062,11 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta de manga corta Fruit of the Loom Super Premium, referencia 011518. Cuello redondo de canalé de algodón/Lycra®, encintado en el cuello y costuras dobles en mangas, cuello y dobladillo. Tejido tubular preencogido. 205 g/m². 100% algodón, excepto colores vigoré según ficha técnica. Tallas S, M, L, XL, XXL, 3XL, 4XL y 5XL.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Super%20Premium%20011518/1_e0e1bdb6_2K%20(1).jpg",
     "images": [
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/1_e0e1bdb6_2K.jpg?v=1794432041",
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/2_0631f99f_2K.jpg?v=1794432041",
-      "https://cdn.shopify.com/s/files/1/1083/8838/5108/files/3_8bf22f7b_2K.jpg?v=1794432041"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Super%20Premium%20011518/1_e0e1bdb6_2K%20(1).jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Super%20Premium%20011518/2_0631f99f_2K%20(1).jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Super%20Premium%20011518/3_8bf22f7b_2K%20(1).jpg"
     ],
     "colors": [
       {
@@ -5112,9 +5112,9 @@ window.IN_TIME_PRODUCTS = [
       "Tallas: S, M, L, XL, XXL, 3XL, 4XL y 5XL"
     ],
     "galleryImages": [
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/1_47af3af8_2K.jpg",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/2_d6948337_2K.jpg",
-      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Super%20Premium/3_98228224_2K.jpg"
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Super%20Premium%20011518/1_e0e1bdb6_2K%20(1).jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Super%20Premium%20011518/2_0631f99f_2K%20(1).jpg",
+      "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Super%20Premium%20011518/3_8bf22f7b_2K%20(1).jpg"
     ],
     "galleryImagesLabels": [
       "Fotografía principal",

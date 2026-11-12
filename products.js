@@ -5189,7 +5189,7 @@ window.IN_TIME_PRODUCTS = [
     "desc": "Camiseta unisex de manga corta Fruit of the Loom Pure Cotton T. Confeccionada en 100% algodón orgánico peinado e hilado Ring Spun, con gramaje de 175 g/m². Corte clásico, cuello redondo de punto elástico 1x1 con pespunte de una aguja y cinta de hombro a hombro. Etiqueta desprendible. Disponible en tallas S, M, L, XL, 2XL y 3XL.",
     "tag": "FRUIT OF THE LOOM",
     "brand": "Fruit of the Loom",
-    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg",
+    "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/1_f14b0701_2K.jpg",
     "images": [
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/White.jpg",
       "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Natural.jpg",
@@ -5279,5 +5279,12 @@ window.IN_TIME_PRODUCTS = [
         "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/imagenes/fruit-of-the-loom/manga-corta/Desert-Sand.jpg"
       }
     ]
+  ,
+    "galleryImages": [
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/1_f14b0701_2K.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/2_68b1e771_2K.jpg",
+          "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Pure%20Cotton%20T/3_93cb0665_2K.jpg"
+    ],
+    "galleryImagesLabels": ["Fotografía principal", "Fotografía 2", "Fotografía 3"]
   }
 ];

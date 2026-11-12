@@ -216,6 +216,50 @@
 <script src="products.js?v=20261111-iconic150t-gallery-final-01"></script>
 
 <script>
+/* Galería y fotografías de color: Fruit of the Loom Ladies Original */
+(()=>{
+ const products=window.IN_TIME_PRODUCTS||[];
+ const norm=v=>String(v||"").normalize("NFD").replace(/[\\u0300-\\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
+ const p=products.find(x=>norm(x.name)==="camiseta fruit of the loom ladies original" || String(x.id||"").includes("ladies-original"));
+ if(!p) return;
+ const base="https://aluniaaaa1.github.io/intimepersonalizar/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/";
+ const imgs=[
+  base+"1_db5aea1a_2K.jpg",
+  base+"2_3998ff78_2K.jpg",
+  base+"3_e4a5c52f_2K.jpg"
+ ];
+ p.img=imgs[0];
+ p.galleryImages=imgs;
+ p.galleryImagesLabels=["Fotografía principal","Fotografía 2","Fotografía 3"];
+ const colorFiles={
+  "Azure Blue":"Fruit_of_the_Loom_Original_Lady_Fit_Azure_Blue.jpg",
+  "Black":"Fruit_of_the_Loom_Original_Lady_Fit_Black.jpg",
+  "Bottle Green":"Fruit_of_the_Loom_Original_Lady_Fit_Bottle_Green.jpg",
+  "Burgundy":"Fruit_of_the_Loom_Original_Lady_Fit_Burgundy.jpg",
+  "Fuchsia":"Fruit_of_the_Loom_Original_Lady_Fit_Fuchsia.jpg",
+  "Heather Grey":"Fruit_of_the_Loom_Original_Lady_Fit_Heather_Grey.jpg",
+  "Kelly Green":"Fruit_of_the_Loom_Original_Lady_Fit_Kelly_Green.jpg",
+  "Light Graphite":"Fruit_of_the_Loom_Original_Lady_Fit_Light_Graphite.jpg",
+  "Lime Green":"Fruit_of_the_Loom_Original_Lady_Fit_Lime_Green.jpg",
+  "Navy":"Fruit_of_the_Loom_Original_Lady_Fit_Navy.jpg",
+  "Orange":"Fruit_of_the_Loom_Original_Lady_Fit_Orange.jpg",
+  "Purple":"Fruit_of_the_Loom_Original_Lady_Fit_Purple.jpg",
+  "Red":"Fruit_of_the_Loom_Original_Lady_Fit_Red.jpg",
+  "Royal":"Fruit_of_the_Loom_Original_Lady_Fit_Royal.jpg",
+  "Sky Blue":"Fruit_of_the_Loom_Original_Lady_Fit_Sky_Blue.jpg",
+  "Sunflower":"Fruit_of_the_Loom_Original_Lady_Fit_Sunflower.jpg",
+  "White":"Fruit_of_the_Loom_Original_Lady_Fit_White.jpg",
+  "Yellow":"Fruit_of_the_Loom_Original_Lady_Fit_Yellow.jpg"
+ };
+ (p.colors||[]).forEach(c=>{
+  const file=colorFiles[c.name];
+  if(file) c.image=base+encodeURIComponent(file).replace(/%2F/g,"/");
+ });
+})();
+</script>
+
+
+<script>
 /* Galería exclusiva del producto Fruit of the Loom Super Premium 011518. */
 (()=>{
  const products=window.IN_TIME_PRODUCTS||[];

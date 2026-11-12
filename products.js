@@ -5290,4 +5290,61 @@ window.IN_TIME_PRODUCTS = [
       "Fotografía 3"
     ]
   }
+,
+{
+  "id": "russell-classic-nino",
+  "name": "Camiseta Russell Classic Niño",
+  "cat": "Camiseta Manga Corta",
+  "grupo": "Prendas serigrafía",
+  "desc": "Camiseta Russell Classic infantil de algodón ring-spun. 180 g/m² (White: 175 g/m²). Light Oxford: 93% algodón y 7% viscosa. Cinta de hombro a hombro, etiqueta para nombre y doble puntada en cuello, mangas y bajo.",
+  "tag": "RUSSELL",
+  "brand": "Russell",
+  "img": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/1_69b702ff_2K.jpg",
+  "galleryImages": [
+    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/1_69b702ff_2K.jpg",
+    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/2_b1c10626_2K.jpg",
+    "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/3_8f21b8aa_2K.jpg"
+  ],
+  "galleryImagesLabels": [
+    "Fotografía principal",
+    "Fotografía 2",
+    "Fotografía 3"
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/Color_White.jpg"
+    },
+    {
+      "name": "Black",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/Color_Black.jpg"
+    },
+    {
+      "name": "French Navy",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/Color_French_Navy.jpg"
+    },
+    {
+      "name": "Bright Royal",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/Color_Bright_Royal.jpg"
+    },
+    {
+      "name": "Classic Red",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/Color_Classic_Red.jpg"
+    },
+    {
+      "name": "Yellow",
+      "image": "https://raw.githubusercontent.com/Aluniaaaa1/intimepersonalizar/main/modelo/CAMISETA%20CLASSIC%20NI%C3%91O/Muestra_Color_Yellow.jpg"
+    }
+  ],
+  "features": [
+    "180 g/m² (White: 175 g/m²)",
+    "100% algodón ring-spun",
+    "Light Oxford: 93% algodón y 7% viscosa",
+    "Cinta de hombro a hombro",
+    "Etiqueta para nombre",
+    "Doble puntada en cuello, mangas y bajo",
+    "Tejido tubular"
+  ],
+  "sourceUrl": "https://www.tuskamisetas.com/es/producto/russell-europe-ninos-camiseta-nino"
+}
 ];

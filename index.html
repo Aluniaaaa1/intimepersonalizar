@@ -219,7 +219,7 @@
 /* Galería y fotografías de color: Fruit of the Loom Ladies Original */
 (()=>{
  const products=window.IN_TIME_PRODUCTS||[];
- const norm=v=>String(v||"").normalize("NFD").replace(/[\\u0300-\\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
+ const norm=v=>String(v||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
  const p=products.find(x=>norm(x.name)==="camiseta fruit of the loom ladies original" || String(x.id||"").includes("ladies-original"));
  if(!p) return;
  const base="https://aluniaaaa1.github.io/intimepersonalizar/modelo/Camiseta%20Fruit%20of%20the%20Loom%20Ladies%20Original/";
